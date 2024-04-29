@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Canal 11 de salta
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1714406950~exp=1714414150~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=3cf29e2090532a3601da24a744ef9b5c1609b8126e009f435dd583cd68e50c9a
+https://www.youtube.com/watch?v=Rp_tnCyo1hQ&embeds_referring_euri=https%3A%2F%2Ftvabierta.weebly.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo
 #EXTINF:-1 ,Canal 9 de salta
 https://panel.host-live.com/8250/8250/playlist.m3u8
 #EXTINF:-1 ,Canal 10 de salta
@@ -13,3 +13,25 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/chunklist_w1049962063.m3u8
 #EXTINF:-1 , Neox Tv SAlta
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 , ARGENTINISIMA
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 , canal 13
+https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:-1 , Canal TV Publica
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 , Canal 9
+https://usher.ttvnw.net/api/channel/hls/elnuevevivo.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=124.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=9451495&parent_domains=twitchplayer&platform=web&play_session_id=8cee485886a461c957ddf92226f73c39&player_backend=mediaplayer&player_version=1.28.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=2a71a17e0300a23517e7966377926861d8450ba8&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnuevevivo%22%2C%22channel_id%22%3A1004061179%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%228sK3FAla7HIZGPoEodrsBfJiuzZedZch%22%2C%22expires%22%3A1714430443%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.116.200.14%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+#EXTINF:-1 , depor tv
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1498685508.m3u8
+#EXTINF:-1 , Cine ar
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 , America 24
+https://www.youtube.com/watch?v=QGpHLgRnrx4&embeds_referring_euri=https%3A%2F%2Ftvabierta.weebly.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo
+#EXTINF:-1 , Net TV
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=82112959
+#EXTINF:-1 , Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 , Paka Paka
+https://usher.ttvnw.net/api/channel/hls/comarca_tv.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=124.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=3160611&parent_domains=twitchplayer&platform=web&play_session_id=81a311a1fd7d32f6aba6a2ec72623159&player_backend=mediaplayer&player_version=1.28.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=a7b558fcf0917b79754c46b9ec8be2a6ed7b6d81&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22comarca_tv%22%2C%22channel_id%22%3A237062786%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%228sK3FAla7HIZGPoEodrsBfJiuzZedZch%22%2C%22expires%22%3A1714433108%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.116.200.14%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+#EXTINF:-1 , Cronica TV
+https://www.youtube.com/watch?v=avly0uwZzOE&embeds_referring_euri=https%3A%2F%2Ftvabierta.weebly.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo
