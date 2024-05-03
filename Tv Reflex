@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 ,Canal 11 de salta
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714723633/ei/0UY0ZpXRFq-X-LAPmtCLuAg/ip/2803%3A9800%3A9402%3A433f%3A7173%3A9045%3Aedaf%3A6423/id/AUZcSTu0mTU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f__XzTyObXMUaaIgkUNHfg0rx9eO7UbM0GzEPht4rm-dReXNAgzRXNyp/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANTr31TQz6H6LpVFXlRBMNm_mMfSZ-okkwh7KfCG8GLdAiEAuzeGfkKBEasRvoiDr_XmZ8U0533HFrZaRv84bPZWN_0%3D/file/index.m3u8
-#EXTINF:-1 ,Canal 9 de salta
+#EXTINF:tvg-name="Canal 9 de Salta" tvg-logo="https://multivision.tv/wp-content/uploads/2024/04/LOGO-MONEDA.png", Canal 9 de Salta
 https://panel.host-live.com/8250/8250/playlist.m3u8
 #EXTINF:-1 ,Canal 10 de salta
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
