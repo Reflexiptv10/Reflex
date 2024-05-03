@@ -1,27 +1,26 @@
 #EXTM3U 
 #EXTINF:-1 ,Canal 11 de salta
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714723633/ei/0UY0ZpXRFq-X-LAPmtCLuAg/ip/2803%3A9800%3A9402%3A433f%3A7173%3A9045%3Aedaf%3A6423/id/AUZcSTu0mTU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f__XzTyObXMUaaIgkUNHfg0rx9eO7UbM0GzEPht4rm-dReXNAgzRXNyp/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANTr31TQz6H6LpVFXlRBMNm_mMfSZ-okkwh7KfCG8GLdAiEAuzeGfkKBEasRvoiDr_XmZ8U0533HFrZaRv84bPZWN_0%3D/file/index.m3u8
-#EXTINF:tvg-name="Canal 9 de Salta" tvg-logo="https://multivision.tv/wp-content/uploads/2024/04/LOGO-MONEDA.png", Canal 9 de Salta
+#EXTINF:-1 tvg-id="0002" tvg-name="Canal 9 de Salta" tvg-logo="https://multivision.tv/wp-content/uploads/2024/04/LOGO-MONEDA.png", Canal 9 de Salta
 https://panel.host-live.com/8250/8250/playlist.m3u8
-#EXTINF:-1 ,Canal 10 de salta
+#EXTINF:-1 tvg-id="0003" tvg-name="Canal 10 de Salta" tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png", Canal 10 de SAlta
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
-#EXTINF:-1 ,Canal 7 de salta
+#EXTINF:-1 tvg-id="0004" tvg-name="Canal 7 de Salta" tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_400x400.png", Canal 7 de Salta
 https://ssh101-fl.bozztv.com/ssh101/canal7salta/index.m3u8
-#EXTINF:-1 ,Canal 2 de salta
+#EXTINF:-1 tvg-id="0005" tvg-name="Canal 2 de Salta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3K8tQsSf3ESQ0UEsCWQ9UcNoKuZvgS-yLco1-adijYw&s", Canal 2 de Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:-1 , Milenum Tv Salta
-https://stmv5.livecastv.com/milleniumtv/milleniumtv/chunklist_w1049962063.m3u8
-#EXTINF:-1 , Neox Tv SAlta
+#EXTINF:-1 tvg-id="0006" tvg-name="Milenium tv Salta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Pzd3kBFf-aHiP0k0SJU8oqkS-yxQm8GApdOWGeM3Rw&s", Milenium tv Salta
+https://videostream.shockmedia.com.ar:19360/milleniumtv/milleniumtv.m3u8
+#EXTINF:-1 tvg-id="0007" tvg-name="Neox tv Salta" tvg-logo="https://play-lh.googleusercontent.com/Nfszueo1J_C4KFaqJJ_UndCUqdHCLG7Gt5qBxjQ5pSQjo-JTLrubwuwd60n8WzwC-Ok", Neox tv Salta
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 , ARGENTINISIMA
+#EXTINF:-1 tvg-id="0008" tvg-name="Argentinisima" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png", Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 , canal 13
+#EXTINF:-1 tvg-id="0009" tvg-name="Canal 13" tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16011-1639_import.png", El Trece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 , Canal TV Publica
+#EXTINF:-1 tvg-id="0010" tvg-name="TV Publica" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png", TV Publica
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 , Cronica TV
+#EXTINF:-1 tvg-id="0011" tvg-name="Cronica TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3mhuG54W9vWDaQIvW-gmGaTqlu_-F9d2sJWv9SZDY-A&s", Cronica TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714723956/ei/FEg0ZsuEJNXLobIP99CqiAE/ip/2803%3A9800%3A9402%3A433f%3A7173%3A9045%3Aedaf%3A6423/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0wX4KlJcwfMmyvsS-TO8O1aSOHExUldKgeLPVxJ25yB2UJaVxf5RXHt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANm5HQuDP9Gy9XdNmp692BaUae_vg-UMEHkNpx0g4QZcAiEA8iz8fY8pO6gePN1q8eW_2CqB5ls9msoSTk9pluy1F94%3D/file/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png", AnimeStation ✪ | AR
