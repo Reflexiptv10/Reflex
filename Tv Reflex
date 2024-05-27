@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Canal 11 de salta
-https://live-ak2.vimeocdn.com/a6551c92-bbf6-4df7-8870-822622e15b04/hls.m3u8?hdnts=exp%3D1715822429~acl%3D%252Fa6551c92-bbf6-4df7-8870-822622e15b04%252Fhls.m3u8%252A~hmac%3Da76261b1029f428cfdcf78e4f268e7c9bcdccf313f1501178fdd97e41b66aba8
-#EXTINF:-1 ,Canal 9 de salta
+https://www.youtube.com/watch?v=XCZNSPsMCdI#EXTINF:-1 ,Canal 9 de salta
 https://panel.host-live.com/8250/8250/playlist.m3u8
 #EXTINF:-1 ,Canal 10 de salta
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
