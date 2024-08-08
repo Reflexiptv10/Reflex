@@ -7,7 +7,7 @@ https://panel.host-live.com/8250/8250/playlist.m3u8
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_200x200.png" ,Canal 7 de salta
 https://ssh101-fl.bozztv.com/ssh101/canal7salta/index.m3u8
-#EXTINF:-1 ,Canal 2 de salta
+#EXTINF:-1 tvg-logo="https://altoremix.com.ar/site/images/canal2okok.jpg",Canal 2 de salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 , Milenum Tv Salta
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/chunklist_w1049962063.m3u8
