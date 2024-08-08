@@ -17,21 +17,21 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eltrece_logotipo_2018.png/800px-Eltrece_logotipo_2018.png" , canal 13
 https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 , Canal TV Publica
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png", Canal TV Publica
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 , Canal 9
+#EXTINF:-1 tvg-logo="https://elnueve-compress.s3-accelerate.amazonaws.com/files/1540224159808canal-nueve-buenos-aires.jpg", Canal 9
 https://usher.ttvnw.net/api/channel/hls/elnueve_ok.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=127.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=6531295&parent_domains=twitchplayer&platform=web&play_session_id=c125c572196ec07eb0f04cb97f04703b&player_backend=mediaplayer&player_version=1.31.0-sr.3&playlist_include_framerate=true&reassignments_supported=true&sig=f69ba8b98babbb585bcf3fe67f3be6218bf1a93a&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueve_ok%22%2C%22channel_id%22%3A1078801482%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2261f932259a1f20f0%22%2C%22expires%22%3A1723115451%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.116.200.86%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
-#EXTINF:-1 , depor tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png", depor tv
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1498685508.m3u8
-#EXTINF:-1 , Cine ar
+#EXTINF:-1 tvg-logo="https://www.cultura.gob.ar/media/uploads/5c6d6d6a76fc4.png", Cine ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 , America 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png", America 24
 https://www.youtube.com/watch?v=QGpHLgRnrx4&embeds_referring_euri=https%3A%2F%2Ftvabierta.weebly.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo
-#EXTINF:-1 , Net TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png", Net TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=82112959
-#EXTINF:-1 , Canal de la Ciudad
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canalciudadlogo.jpg", Canal de la Ciudad
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-#EXTINF:-1 , Paka Paka
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png", Paka Paka
 https://usher.ttvnw.net/api/channel/hls/comarca_tv.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=124.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=3160611&parent_domains=twitchplayer&platform=web&play_session_id=81a311a1fd7d32f6aba6a2ec72623159&player_backend=mediaplayer&player_version=1.28.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=a7b558fcf0917b79754c46b9ec8be2a6ed7b6d81&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22comarca_tv%22%2C%22channel_id%22%3A237062786%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%228sK3FAla7HIZGPoEodrsBfJiuzZedZch%22%2C%22expires%22%3A1714433108%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.116.200.14%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" tvg-id="", TNT Sports
 http://45.5.151.151:8000/play/a002/index.m3u8
