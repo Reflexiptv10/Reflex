@@ -13,9 +13,9 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/chunklist_w1049962063.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DEO1TTjd0NbDYdxCESVE80a3Bj_KVUjKnvE7KZYUJf2vHzlixRrkbGtUA4kbxFMNEw=w526-h296-rw" , Neox Tv SAlta
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 , ARGENTINISIMA
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" , ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 , canal 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eltrece_logotipo_2018.png/800px-Eltrece_logotipo_2018.png" , canal 13
 https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 , Canal TV Publica
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
