@@ -5,7 +5,7 @@ https://youtu.be/lm2V9vYZwGE
 https://panel.host-live.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png" ,Canal 10 de salta
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
-#EXTINF:-1 ,Canal 7 de salta
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_200x200.png" ,Canal 7 de salta
 https://ssh101-fl.bozztv.com/ssh101/canal7salta/index.m3u8
 #EXTINF:-1 ,Canal 2 de salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
