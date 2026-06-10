@@ -7,7 +7,7 @@ https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
  
 #EXTINF:-1 grupo-título="CANALES",CANAL 10 DE SALTA
-https://el10tvstream.digitalnoa.com.ar/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
+https://el10tvstream.digitalnoa.com.ar/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=YjCbyqG76hHVM8PjCfjDhU
  
 #EXTINF:-1 grupo-título="CANALES",MILENIUM DE SALTA
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
