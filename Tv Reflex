@@ -1,187 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 7 SALTA: CANAL VIP+" tvg-logo="https://play-lh.googleusercontent.com/wqC28g5axDfQhkUhcALzgqvyF8bCwyCr06knFxa0FS0d0zy5lQG_9uC_ZQu-HJ-f9oXdFr4QJjGPZAUscuEwSQ" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL VIP+
-https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL: CANAL VIP+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2K9lTOKj8ZkSycX7_9jxGBHZGPmma5QXKiBuN137KwyfDNRqfN4OFEY2&s=10" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL VIP+
-https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
-#EXTINF:-1 grupo-título="CANALES",CANAL 10 DE SALTA
-https://el10tvstream.digitalnoa.com.ar/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=YjCbyqG76hHVM8PjCfjDhU
 
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL: CANAL VIP+" tvg-logo="https://i.ibb.co/PZDDypRM/SNEO.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL VIP+
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ3NmYUVKZDBwbXBuMWFhVDJjV3Zrcz0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL: CANAL VIP" tvg-logo="https://i.ibb.co/PZDDypRM/SNEO.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL VIP
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTDFhSFF1NUM3dUZidytqaGlKT0Z5bz0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL: CANAL FOX +" tvg-logo="https://i.ibb.co/PZDDypRM/SNEO.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL FOX +
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiREZyS0loZU9yQ2ZKK3B0eTJtb1FKbz0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 1" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 1
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR0dzV1ZUTkpSdkpEMHJaYzMyQlhlYz0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 2" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 2
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHFCRVdHZjBwaVg3TWVhaWtRS0owMD0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 3" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 3
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTlNbTJGdDBHL21RYzJ4VkFCdFRYcz0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 4" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 4
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVU3eFFCV2FheVBZSnRNMllWeEJTZz0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 5" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 5
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRnNQQnJVMUJvWk1RWmxMTWhzTnVlQT0
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 6" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 6
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjQwVzhDc012enBTQVBjd1hIOStQYz0
-#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT Disney+ Informativo" tvg-logo="https://immaa.xyz/disn3INFO.png" group-title="⭐EVENTOS DISNEY+⭐",PPV EVENT Disney+ Informativo
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSURYSmI3MmlndkE0L3J0QzFEdU1vWT0
-#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT Disney+ 1  [Replays]" tvg-logo="https://immaa.xyz/disn3replay.png" group-title="⭐EVENTOS DISNEY+⭐",PPV EVENT Disney+ 1  [Replays]
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWNIS05JSzErYjZKb25rSVNBek8yST0
-#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT Disney+" tvg-logo="https://immaa.xyz/disn310.png" group-title="⭐EVENTOS DISNEY+⭐",PPV EVENT Disney+
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTnZEVnNNckxDUlhRRlBqdjRDMTZsWT0
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX PPV : 01 (Funciona en evento)" tvg-logo="https://immaa.xyz/n3fllxevent.png" group-title="⭐EVENTOS NETFLIX⭐",NETFLIX PPV : 01 (Funciona en evento)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFFSUGVNMUh0NVcza3dxZmphZjNjVT0
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX PPV : 02 (Funciona en evento)" tvg-logo="https://immaa.xyz/n3fllxevent.png" group-title="⭐EVENTOS NETFLIX⭐",NETFLIX PPV : 02 (Funciona en evento)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFZsMzJONUtOVXdyVmZZelZjZllKMD0
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX PPV :  (Replays)" tvg-logo="https://immaa.xyz/n3fllxevent.png" group-title="⭐EVENTOS NETFLIX⭐",NETFLIX PPV :  (Replays)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSERZMHBmZC9VT21SNjlHbmFRQlJyaz0
-#EXTINF:-1 tvg-id="" tvg-name="⚽ Directv Sports ⚽" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ Directv Sports ⚽
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmJPQ3VLZzlybGNzTFdXcXA5a1RpZz0
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN LATINO ⚽" tvg-logo="https://static.epg.best/mx/ESPNLatin.mx.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ ESPN LATINO ⚽
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSm5wRy9GdjM4WEdMU1hCREw5dFpPaz0
-#EXTINF:-1 tvg-id="" tvg-name="⚽ UEFA / M+ LALIGA ⚽" tvg-logo="https://immaa.xyz/CHAANNNpiiileeag.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ UEFA / M+ LALIGA ⚽
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHBLeUQ1VDV0QW5iUlFEd282NWpNaz0
-#EXTINF:-1 tvg-id="" tvg-name="⚽ REPLAY Champions Liga de Campeones ● ⚽" tvg-logo="https://immaa.xyz/CHAANNNpiiileeag.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ REPLAY Champions Liga de Campeones ● ⚽
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQzhJNElabU42NXVRVUs0clpRRndwMD0
-#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING EVENTS 001 (Funciona en evento)" tvg-logo="https://i.ibb.co/YBpn2C5f/sneo-sp.png" group-title="⭐UFC - BOXEO - WWE",PPV BOXING EVENTS 001 (Funciona en evento)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlpSeFpGRi9CSTh4WUtFMmNESVJlST0
-#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING EVENTS 002 (Funciona en evento)" tvg-logo="https://i.ibb.co/YBpn2C5f/sneo-sp.png" group-title="⭐UFC - BOXEO - WWE",PPV BOXING EVENTS 002 (Funciona en evento)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQmRLdU53akhhQytpVGNYL2ZOWDZ1RT0
-#EXTINF:-1 tvg-id="" tvg-name="UFC PASS EVENTS 001 (Funciona en evento)" tvg-logo="https://immaa.xyz/uuffccpassseven.png" group-title="⭐UFC - BOXEO - WWE",UFC PASS EVENTS 001 (Funciona en evento)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUE9yMFhlMkRrRXZEN0k2LzhYUVpMbz0
-#EXTINF:-1 tvg-id="" tvg-name="UFC PASS EVENTS 002 (Funciona en evento)" tvg-logo="https://immaa.xyz/uuffccpassseven1.png" group-title="⭐UFC - BOXEO - WWE",UFC PASS EVENTS 002 (Funciona en evento)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRm9nTUE5ekhaUXQ1NVhJYjRvSWU1VT0
-#EXTINF:-1 tvg-id="" tvg-name="UFC | WWE Network ..." tvg-logo="https://immaa.xyz/WWENetwork.png" group-title="⭐UFC - BOXEO - WWE",UFC | WWE Network ...
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRmFHOGFQQkFMMjdELytGNEJpWHd4OD0
-#EXTINF:-1 tvg-id="" tvg-name="UFC REPLAYS  ●" tvg-logo="https://immaa.xyz/UFCREPLAYS.png" group-title="⭐UFC - BOXEO - WWE",UFC REPLAYS  ●
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSE5ZZWpPK1gvUFIzTFVHMHB0blBmST0
-#EXTINF:-1 tvg-id="" tvg-name="UFC - Fight Channel  - BOX - PASS" tvg-logo="https://immaa.xyz/FightChannel.png" group-title="⭐UFC - BOXEO - WWE",UFC - Fight Channel  - BOX - PASS
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUDZtL0NUQnYxcXBGaGp4ZGs2ZUIrZz0
-#EXTINF:-1 tvg-id="" tvg-name="UFC: THE FIGHT NETWORK / Box" tvg-logo="https://immaa.xyz/THEFIGHTNETWORK.png" group-title="⭐UFC - BOXEO - WWE",UFC: THE FIGHT NETWORK / Box
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRzRncE0vY2Z2YkhBUUxTWmEwb2p1QT0
-#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING EVENTS Fite AEW BBKF" tvg-logo="" group-title="⭐UFC - BOXEO - WWE",PPV BOXING EVENTS Fite AEW BBKF
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUtZZzlXa1hFWXZQSy8xWUIzZFcxcz0
-#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING LUCHA LIBRE CMLL AAA MX" tvg-logo="https://immaa.xyz/ARGttyccc.png" group-title="⭐UFC - BOXEO - WWE",PPV BOXING LUCHA LIBRE CMLL AAA MX
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRlVYRnNUYjM3V1hjSVFYaTRpSFZWRT0
-#EXTINF:-1 tvg-id="" tvg-name="DAZN COMBATE @" tvg-logo="https://immaa.xyz/DAZNCOMBATE.png" group-title="⭐UFC - BOXEO - WWE",DAZN COMBATE @
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVgzTjlYZlRxQk1qM1paVUpQS2s2ND0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 Latino" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="⭐UFC - BOXEO - WWE",ESPN 4 Latino
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR005ZkpmRTUxWDhJT1NHUDNkcHJLUT0
-#EXTINF:-1 tvg-id="" tvg-name="USA :  TITAN TV MMATV ●" tvg-logo="https://immaa.xyz/EUROPLAYER01MMATV.png" group-title="⭐UFC - BOXEO - WWE",USA :  TITAN TV MMATV ●
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR2U4NzZHVlRNZUZuemZOQmpMdkJ0cz0
-#EXTINF:-1 tvg-id="" tvg-name="USA :  EUROPLAYER 01 MMATV 002 ● @ (Solo eventos)" tvg-logo="https://immaa.xyz/EUROPLAYER01MMATV002.png" group-title="⭐UFC - BOXEO - WWE",USA :  EUROPLAYER 01 MMATV 002 ● @ (Solo eventos)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQUNPL25KV29GUUt6cVJQaTRpV3Y3TT0
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (UFC- BOX ) Ingles" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="⭐UFC - BOXEO - WWE",FOX SPORTS PREMIUM (UFC- BOX ) Ingles
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGRTVXpKZXkxdzl0NkxsTVBhbTRRbz0
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (UFC-BOX)  Latino" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="⭐UFC - BOXEO - WWE",FOX SPORTS PREMIUM (UFC-BOX)  Latino
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSEN2OGU2SHBqSGRVSFoyMnV3TUl4WT0
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://immaa.xyz/dieeeccFIGG.png" group-title="⭐UFC - BOXEO - WWE",DIRECTV Sports Fight
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQW5odXljSEk1NkRrbk1IMzB3R1hSUT0
-#EXTINF:-1 tvg-id="" tvg-name="BR_ COMBATE" tvg-logo="" group-title="⭐UFC - BOXEO - WWE",BR_ COMBATE
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjlGenpQSGJuVG1ERmZ2YnJLTXdORT0
-#EXTINF:-1 tvg-id="" tvg-name="USA: UFC Fight Pass ." tvg-logo="https://immaa.xyz/UFFFcfipaas001.png" group-title="⭐UFC - BOXEO - WWE",USA: UFC Fight Pass .
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSW9nYW5icjM0cHR2QmVZL1dBbzkvMD0
-#EXTINF:-1 tvg-id="" tvg-name="USA - UFC FITE   // ● BOX" tvg-logo="https://immaa.xyz/UFCFITE.png" group-title="⭐UFC - BOXEO - WWE",USA - UFC FITE   // ● BOX
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQzNuMzk1L0MvT2d5aG0wZEdsNWlwND0
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Primeira Divisão - Macau Benfica de Macau vs. Shao Jiang" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",08:00 Primeira Divisão - Macau Benfica de Macau vs. Shao Jiang
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQVE4M1dVeHVBemR1VExiNDltcjMrRT0
-#EXTINF:-1 tvg-id="" tvg-name="08:00 WorldSBK Libres 2 & Superpole (WWCR & WSSP) Prosecco DOC UK Round" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",08:00 WorldSBK Libres 2 & Superpole (WWCR & WSSP) Prosecco DOC UK Round
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUENYcDlJOS9HMkVDVHl2NGp1NnpjRT0
-#EXTINF:-1 tvg-id="" tvg-name="09:00 Copa Mundial de la FIFA™ Programa 31 Trending Mundial" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",09:00 Copa Mundial de la FIFA™ Programa 31 Trending Mundial
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRW5ZclNScTJMTkJhdVp2ZVJKN2Q3MD0
-#EXTINF:-1 tvg-id="" tvg-name="09:00 Premier League - Lebanon Racing Beirut vs. Tadamon Sour" tvg-logo="https://immaa.xyz/EVENT_premieeerlegague.png" group-title=" ⭐EVENTOS TV⭐",09:00 Premier League - Lebanon Racing Beirut vs. Tadamon Sour
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTUoxQ05ZcjVjQ20xYUpSM1RrQ29IQT0
-#EXTINF:-1 tvg-id="" tvg-name="09:00 Apex Legends Global Series Playoffs Split 1 Apex Legends - Día 4" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",09:00 Apex Legends Global Series Playoffs Split 1 Apex Legends - Día 4
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR28rMVZOVXRWc0NxemVRblhDeGJpND0
-#EXTINF:-1 tvg-id="" tvg-name="09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)" tvg-logo="https://immaa.xyz/EVENT_ES_tourfrancia.png" group-title=" ⭐EVENTOS TV⭐",09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSGNqV1ZjWk9FVnpuS1k2amZaU3Noaz0
-#EXTINF:-1 tvg-id="" tvg-name="09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)" tvg-logo="https://immaa.xyz/EVENT_ES_tourfrancia.png" group-title=" ⭐EVENTOS TV⭐",09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjBheXVvckc3WEJPMmw5TVV6QWsrcz0
-#EXTINF:-1 tvg-id="" tvg-name="09:30 TENIS Wimbledon ᴾᵖᵛ J. Sinner vs N. Djokovic" tvg-logo="https://immaa.xyz/EVENT_teennis.png" group-title=" ⭐EVENTOS TV⭐",09:30 TENIS Wimbledon ᴾᵖᵛ J. Sinner vs N. Djokovic
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVZXOWQ4bEJKM0ZPVmxDV0Uzajljbz0
-#EXTINF:-1 tvg-id="" tvg-name="14:00 Copa Mundial de Fútbol - 2026 España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 Copa Mundial de Fútbol - 2026 España vs Bélgica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFptUUw0YUVKU25uSzgwUHEwdFRqTT0
-#EXTINF:-1 tvg-id="" tvg-name="11:00 EUROPEO SUB-19 FEMENINO Alemania - España" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",11:00 EUROPEO SUB-19 FEMENINO Alemania - España
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTNicnI0WG9nWGF4SWlySHFNUXJkRT0
-#EXTINF:-1 tvg-id="" tvg-name="13:00 Atletismo DIAMOND LEAGUE Mónaco" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",13:00 Atletismo DIAMOND LEAGUE Mónaco
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHdoUE9yT3BUYlJwOUZPUFpkaHhYND0
-#EXTINF:-1 tvg-id="" tvg-name="14:00 MUNDIAL España - Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 MUNDIAL España - Bélgica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSzlIcTJxQ0cxandiZHdBcHAwaFhiST0
-#EXTINF:-1 tvg-id="" tvg-name="14:00 Mundial España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 Mundial España vs Bélgica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRkZRZmZKT0F1aUoyOFpRV2ZJWHMybz0
-#EXTINF:-1 tvg-id="" tvg-name="14:00 MUNDIAL España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 MUNDIAL España vs Bélgica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2FPUlZDSWNDVGxnVXZvZGFHUVgzdz0
-#EXTINF:-1 tvg-id="" tvg-name="14:00 WORLD CUP ᴾᵖᵛ España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 WORLD CUP ᴾᵖᵛ España vs Bélgica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjVKNEtUTDVJcUlhVUVvZEp2TGpFdz0
-#EXTINF:-1 tvg-id="" tvg-name="17:00 LigaPro EC ᴾᵖᵛ Leones del Norte vs U. Católica" tvg-logo="https://immaa.xyz/EVENT_liggaprooec.png" group-title=" ⭐EVENTOS TV⭐",17:00 LigaPro EC ᴾᵖᵛ Leones del Norte vs U. Católica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTG1UUFZXcWVOZ3F2SHd3WnlnUDFrdz0
-#EXTINF:-1 tvg-id="" tvg-name="17:30 BEISBOL MLB Washington Nationals vs New York Yankees" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",17:30 BEISBOL MLB Washington Nationals vs New York Yankees
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTlPSmhabG9YRmQ1ZWVwdlRWR1oyST0
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Brasileirao B Sport Recife vs Botafogo SP" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",18:00 Brasileirao B Sport Recife vs Botafogo SP
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR05PQ21EcUtwbC9zMG9veFhEVFE3bz0
-#EXTINF:-1 tvg-id="" tvg-name="18:00 BEISBOL ᴾᵖᵛ Tampa Bay Rays vs Seattle Mariners" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",18:00 BEISBOL ᴾᵖᵛ Tampa Bay Rays vs Seattle Mariners
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT0hucTF2YzI1ZHpHcEg0VWxwaFdjRT0
-#EXTINF:-1 tvg-id="" tvg-name="18:00 BEISBOL MLB Cincinnati Reds vs Chicago Cubs" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",18:00 BEISBOL MLB Cincinnati Reds vs Chicago Cubs
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTW1uUmk4YTZjOXRBa2g5ZVFYYWNVWT0
-#EXTINF:-1 tvg-id="" tvg-name="18:30 BEISBOL MLB Chicago White Sox vs Athletics" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",18:30 BEISBOL MLB Chicago White Sox vs Athletics
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWdPSmd6aURWSE9SVWp2V0d0SzF3TT0
-#EXTINF:-1 tvg-id="" tvg-name="19:00 LigaPro EC ᴾᵖᵛ Técnico Universitario vs Macará" tvg-logo="https://immaa.xyz/EVENT_liggaprooec.png" group-title=" ⭐EVENTOS TV⭐",19:00 LigaPro EC ᴾᵖᵛ Técnico Universitario vs Macará
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTmdLYzlrSTMwTGlTbDlZem9lRmZSaz0
-#EXTINF:-1 tvg-id="" tvg-name="WWE Friday Night SmackDown" tvg-logo="https://immaa.xyz/EVENT_wwweeee.png" group-title=" ⭐EVENTOS TV⭐",WWE Friday Night SmackDown
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGhJVFdaNlZaMm5iRzJCN0hYb3BYYz0
-#EXTINF:-1 tvg-id="" tvg-name="PPV UFC Preliminar y main" tvg-logo="https://immaa.xyz/uuffccpassseven.png" group-title=" ⭐EVENTOS TV⭐",PPV UFC Preliminar y main
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHVZVllPMFdhVDNEWVY3V2Y1VGsyQT0
-#EXTINF:-1 tvg-id="" tvg-name="PPV BOX Preliminar y main" tvg-logo="https://immaa.xyz/EVENT_bboox.png" group-title=" ⭐EVENTOS TV⭐",PPV BOX Preliminar y main
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRWJDRVk1aTlZN1h1V1cxSUZ2SlI2dz0
-#EXTINF:-1 tvg-id="" tvg-name="13:00 MUNDlAL: España vs Bélgica" tvg-logo="https://immaa.xyz/muundll02.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",13:00 MUNDlAL: España vs Bélgica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFZoUjhBRmorYUwwUHRTL01XNWl0bz0
-#EXTINF:-1 tvg-id="" tvg-name="14:00 MUNDlAL: España vs Bélgica" tvg-logo="https://immaa.xyz/muundll02.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",14:00 MUNDlAL: España vs Bélgica
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR2RkaVE4cDFXYkxua1RSSUpUODdwRT0
-#EXTINF:-1 tvg-id="" tvg-name="Usa: NBA TV" tvg-logo="https://immaa.xyz/tnetNNNBBAAA.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",Usa: NBA TV
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUJmTk0wZldvcmtFYXQ0RXpSenU5ND0
-#EXTINF:-1 tvg-id="" tvg-name="14:00 NBA event: - 01 - Bucks vs Heat" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",14:00 NBA event: - 01 - Bucks vs Heat
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUdMQmpxRjVMaHVEUUhtcGhERUIzWT0
-#EXTINF:-1 tvg-id="" tvg-name="14:30 NBA event: - 02 - Cavaliers vs. Pacers" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",14:30 NBA event: - 02 - Cavaliers vs. Pacers
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT005RnM0T2xpK25QVzU2OGczRXNXbz0
-#EXTINF:-1 tvg-id="" tvg-name="16:00 NBA event: Bucks vs Heat (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:00 NBA event: Bucks vs Heat (07.10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUVYa05PemxxZzQ2VmpNRzd5a2hGYz0
-#EXTINF:-1 tvg-id="" tvg-name="16:00 NBA event: - 03 - Nets vs. Knicks" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:00 NBA event: - 03 - Nets vs. Knicks
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVM2bjFKUnA2aFgzVzZUKzlWUkFaaz0
-#EXTINF:-1 tvg-id="" tvg-name="16:30 NBA event: Cavaliers vs Pacers (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:30 NBA event: Cavaliers vs Pacers (07.10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRUY5cTBFUUw5U3grdWVlS2dUVUFIMD0
-#EXTINF:-1 tvg-id="" tvg-name="16:30 NBA event: - 04 - Rockets vs. Nuggets" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:30 NBA event: - 04 - Rockets vs. Nuggets
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ0ZQa0pUbmFzTkdjMDlUcnhEbE5FWT0
-#EXTINF:-1 tvg-id="" tvg-name="16:30 NBA event: - 05 - Rockets vs. Nuggets Español" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:30 NBA event: - 05 - Rockets vs. Nuggets Español
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTE84TXJlL2tsMC8vOExpSFJyNjhGdz0
-#EXTINF:-1 tvg-id="" tvg-name="18:00 NBA event: Nets vs Knicks (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",18:00 NBA event: Nets vs Knicks (07.10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ3pjM0lIeFFIVzBoUXNrNzRCbVh3ST0
-#EXTINF:-1 tvg-id="" tvg-name="18:30 NBA event: Rockets vs Nuggets (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",18:30 NBA event: Rockets vs Nuggets (07.10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRWVHcCswazExMEltOWl1VFNEL2xPWT0
-#EXTINF:-1 tvg-id="" tvg-name="19:00 NBA event: - 06 - Celtics vs. Raptors" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:00 NBA event: - 06 - Celtics vs. Raptors
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR3d2RCs5THVoN0JwYTJBRmdDWk12dz0
-#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 01 GOLDEN STATE VALKYRIES vs CONNECTICUT SUN /10- ION" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 01 GOLDEN STATE VALKYRIES vs CONNECTICUT SUN /10- ION
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRXpOOTU5aWhBOTlWZ2ptWFg3K09zZz0
-#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 02 DALLAS WINGS vs TORONTO TEMPO /10- ION" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 02 DALLAS WINGS vs TORONTO TEMPO /10- ION
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjRXTzhZMS8rSlhjL0lKc05sUVZRST0
-#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 01: Golden State Valkyries vs. Connecticut Sun (Jul 10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 01: Golden State Valkyries vs. Connecticut Sun (Jul 10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSzRxSmF4OXVtdTE0RmxBQVZXZ0U4ND0
-#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 02: Dallas Wings vs. Toronto Tempo (Jul 10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 02: Dallas Wings vs. Toronto Tempo (Jul 10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTzU2aFVwVitxVDZQUm5wSDU4V1RXST0
-#EXTINF:-1 tvg-id="" tvg-name="20:00 NBA event: Bulls vs Grizzlies (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",20:00 NBA event: Bulls vs Grizzlies (07.10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ2JYaWdZVytEV1J0U25yTUhVcWJ5ND0
-#EXTINF:-1 tvg-id="" tvg-name="21:00 NBA event: Celtics vs Raptors (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",21:00 NBA event: Celtics vs Raptors (07.10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSE9sRkxWTnRjc2J2aWl3RnhINU9EZz0
-#EXTINF:-1 tvg-id="" tvg-name="21:00 NBA event: - 07 - Trail Blazers vs. Suns" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",21:00 NBA event: - 07 - Trail Blazers vs. Suns
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSEJhZmdjcUVnMFpML2ovWm5GZDNCaz0
-#EXTINF:-1 tvg-id="" tvg-name="21:00 NBA event: SP+ 16: : Cavaliers vs Pacers (07-10 UTC)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",21:00 NBA event: SP+ 16: : Cavaliers vs Pacers (07-10 UTC)
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSVlKeGxwbzliQ1BadTVjb1JvcUlLST0
-#EXTINF:-1 tvg-id="" tvg-name="22:00 WNBA 03 CHICAGO SKY vs LOS ANGELES SPARKS /10- ION" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",22:00 WNBA 03 CHICAGO SKY vs LOS ANGELES SPARKS /10- ION
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUG1nbCtxczBJb1F2NzU5R2JYRmJ2VT0
-#EXTINF:-1 tvg-id="" tvg-name="22:00 WNBA 03: Chicago Sky vs. Los Angeles Sparks (Jul 10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",22:00 WNBA 03: Chicago Sky vs. Los Angeles Sparks (Jul 10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHZMNExFVFNHNkxOWUpUblhKNlJPWT0
-#EXTINF:-1 tvg-id="" tvg-name="22:00 NBA event: Thunder vs Lakers (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",22:00 NBA event: Thunder vs Lakers (07.10 )
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVdCRnp5eVBvdy9kNVFScktNVVRJYz0
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 7 SALTA: ARGENTINA" tvg-logo="https://play-lh.googleusercontent.com/wqC28g5axDfQhkUhcALzgqvyF8bCwyCr06knFxa0FS0d0zy5lQG_9uC_ZQu-HJ-f9oXdFr4QJjGPZAUscuEwSQ" group-title="▶️ TV ARGENTINA",ARGENTINA
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL9: SALTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2K9lTOKj8ZkSycX7_9jxGBHZGPmma5QXKiBuN137KwyfDNRqfN4OFEY2&s=10" group-title="▶️ TV ARGENTINA",SALTA
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL10: SALTA" tvg-logo="https://pbs.twimg.com/profile_images/1460346406993108995/2RunknLb_400x400.jpg" group-title="▶️ TV ARGENTINA",SALTA
+https://el10tvstream.digitalnoa.com.ar/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=YjCbyqG76hHVM8PjCfjDhU
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 12:TARTAGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54c8WoWPSX2jmUyL35F1YSutT1Gi4SCm7Xb8729LIbafmadWOf_MIXS4&s=10" group-title="▶️ TV ARGENTINA",SALTA
+https://stream.arcast.net:4443/munitar/munitar/chunklist_w1033757728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEOX TV:SALTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zwfFXIE2g8KWput3trFhhI2SiwPkRZN-pbf5DTg2wsrHKDIJ262P_5i3&s=10" group-title="▶️ TV ARGENTINA",SALTA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIERRA MIA TV:SALTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhhri46IT91jDSkvFkPE8-aOThKYZjOOD1IfFXu27rnV2A-mhO7PfAMg&s=10" group-title="▶️ TV ARGENTINA",SALTA
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MILENIUM TV:SALTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qN-nokWm5anOGG7NF4H3zMdsk2byebWB4UYm5WkbYNPaCw4349sfGBo&s=10" group-title="▶️ TV ARGENTINA",SALTA
+https://milenium.alfasocialmedia.com.ar/live/milenium/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/Y7SCWVB0/image.png" group-title="▶️ TV ARGENTINA",TN NOTICIAS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQUNwUGZvZVJaaSs0ZUlXbU94N3ljND0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | CANAL 26 HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/canal-26-whatsaap.jpg" group-title="▶️ TV ARGENTINA",ARG | CANAL 26 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQVRFOTFBV2I4dEM5V3diK3grUHpJOD0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TELEFE" tvg-logo="https://i.ibb.co/DPXFd8tM/image.png" group-title="▶️ TV ARGENTINA",ARG | TELEFE
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUV4b2lySWxIQmhCNlJuTWpuOVE3az0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | 13 EL TRECE OPC. A" tvg-logo="https://i.ibb.co/bg2mXv0D/image.png" group-title="▶️ TV ARGENTINA",ARG | 13 EL TRECE OPC. A
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjZYMDdEWDBRak4xcVhQelBVM3RYTT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | 13 EL TRECE OPC. B" tvg-logo="https://i.ibb.co/bg2mXv0D/image.png" group-title="▶️ TV ARGENTINA",ARG | 13 EL TRECE OPC. B
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR084L0tUazE5Tk1xZHRJTElQKys4az0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TELEMAX" tvg-logo="https://i.ibb.co/S71J3kTX/image.png" group-title="▶️ TV ARGENTINA",ARG | TELEMAX
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTFBUSmFpWjJkZWhPNllSQzRVR0FyUT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgwC2NLKFI1gKBQj0cn4B_XkL38tsa8xM7EMtOALEXqqXKfZ4d3v-eoo&s=10" group-title="▶️ TV ARGENTINA",ARG: VOLVER
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWlCTWsxN0hmQ3pBR0lWd0o3WWNRdz0
+#EXTINF:-1 tvg-id="" tvg-name=" AR | Canal 79 Mar del Plata" tvg-logo="https://i.ytimg.com/vi/XrzUqRvqfcI/hqdefault.jpg" group-title="▶️ TV ARGENTINA", AR | Canal 79 Mar del Plata
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTXltTjZRWnhTY25naEhDVnU2ZkFJZz0
+#EXTINF:-1 tvg-id="" tvg-name="Uni Teve | AR" tvg-logo="https://i.ibb.co/VYXbTkQw/image.png" group-title="▶️ TV ARGENTINA",Uni Teve | AR
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVVsQThVSm5sblF0SjdrS2hOc2hvaz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="https://www.minutoneuquen.com/u/fotografias/m/2022/2/18/f638x638-528224_586391_5050.png" group-title="▶️ TV ARGENTINA",ARG: A24
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT1c4YUNuTFVUMUtxU0p0b3RZVTNDTT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | C5N FHD" tvg-logo="https://3.bp.blogspot.com/-0-kpXE5cdAo/Wc_piezukdI/AAAAAAAABpU/_sry2Rq2mqUApWhEqZ1bkHSfYsrj3dGkgCLcBGAs/w200-h200/c5n-2017.png" group-title="▶️ TV ARGENTINA",ARG | C5N FHD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSGdYZWJmbGVLRzhGa2NCVjNnVVdybz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | C5N SD" tvg-logo="https://3.bp.blogspot.com/-0-kpXE5cdAo/Wc_piezukdI/AAAAAAAABpU/_sry2Rq2mqUApWhEqZ1bkHSfYsrj3dGkgCLcBGAs/w200-h200/c5n-2017.png" group-title="▶️ TV ARGENTINA",ARG | C5N SD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUEhncnVOa3kzOGZrZXQ2d1ZEMVkycz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | America TV HD*" tvg-logo="https://i.ibb.co/wFXThbXn/image.png" group-title="▶️ TV ARGENTINA",ARG | America TV HD*
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTTdxK0RselhJMjF0a25yUHJCUTRKND0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TELEFE HD" tvg-logo="https://i.ibb.co/DPXFd8tM/image.png" group-title="▶️ TV ARGENTINA",ARG | TELEFE HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTE9udW42WHdWR0cvVHh2M1c4L0R5cz0
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE OPC A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" group-title="▶️ TV ARGENTINA",CIUDAD MAGAZINE OPC A
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUEJNaUZ6b2R3c001RkcvQWxrQ0o5dz0
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE OPC C" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" group-title="▶️ TV ARGENTINA",CIUDAD MAGAZINE OPC C
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSTgvYm5Ca1Fkcmh1M2ZIelFtZ0RSOD0
+#EXTINF:-1 tvg-id="" tvg-name="TN Noticias" tvg-logo="https://i.ibb.co/Y7SCWVB0/image.png" group-title="▶️ TV ARGENTINA",TN Noticias
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTXV5Zy9MM3FWdWZ2ZGJJelJVUTVRcz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TV Publica" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TVPBLICAARGENTINA/EXPORTACION_WEB/SS/TVPBLICAARGENTINA_t-290x163.png" group-title="▶️ TV ARGENTINA",ARG | TV Publica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWxZZUdjbXVzVnJUdHJ5U3AyU1BmVT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Telefe" tvg-logo="https://i.ibb.co/DPXFd8tM/image.png" group-title="▶️ TV ARGENTINA",ARG | Telefe
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRmMyVWlWeXZSeDdLQk50azdESzlkTT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | NET TV" tvg-logo="https://i.ibb.co/GfZZ0F5n/image.png" group-title="▶️ TV ARGENTINA",ARG | NET TV
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTkpDVTFNSWVCV2MzVFVscFBJWHd2VT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | El Nueve  HD" tvg-logo="https://i.ibb.co/DDwmtCV3/image.png" group-title="▶️ TV ARGENTINA",ARG | El Nueve  HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRXg2NjBFNmZZblUxYmhKRmhyQ20xdz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Cine AR" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CINEAR/EXPORTACION_WEB/SS/CINEAR_t-290x163.png" group-title="▶️ TV ARGENTINA",ARG | Cine AR
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2Y2V2pBckt2RnhqVUxDTTQ5ZzFmdz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | America" tvg-logo="https://i.ibb.co/wFXThbXn/image.png" group-title="▶️ TV ARGENTINA",ARG | America
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTlBSR2lCS0RBbjdHYUViRDVCVGpSZz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | A24" tvg-logo="https://i.imgur.com/cEwtZRU.png" group-title="▶️ TV ARGENTINA",ARG | A24
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjFzeDNRZWY3RFc3K3hGT1NLU1hCcz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | VER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUuk2eK30VLGHUUSRMHqdFVSmqoA9tcaZ4UZINGGp_Q&s" group-title="▶️ TV ARGENTINA",ARG | VER TV
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjlYakdLQ2xOaFZNU0pZb3JtNE9Zcz0
+#EXTINF:-1 tvg-id="" tvg-name="AR | LA NACION" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ TV ARGENTINA",AR | LA NACION
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ2piRG5nNTVoSHV4dGFtNnNmZnYwZz0
+#EXTINF:-1 tvg-id="" tvg-name="CANAL A24" tvg-logo="https://www.minutoneuquen.com/u/fotografias/m/2022/2/18/f638x638-528224_586391_5050.png" group-title="▶️ TV ARGENTINA",CANAL A24
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTUUrZkhEUTRIYkN4UEV0c25FdDFXZz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 7 Jujuy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Canal_Siete_Jujuy_Versi%C3%B3n_1.png/revision/latest/scale-to-width-down/250?cb=20190919175445&path-prefix=es" group-title="▶️ TV ARGENTINA",ARG | Canal 7 Jujuy
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTGp4OXlvQUFUeGprQmp2L3g2MVlwUT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | EL NUEVE HD" tvg-logo="https://i.ibb.co/DDwmtCV3/image.png" group-title="▶️ TV ARGENTINA",ARG | EL NUEVE HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHp6alZHZE5RQ0s0dGNIREMzMGpRVT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | CRONICA TV" tvg-logo="https://i.imgur.com/L3UyQBZ.jpeg" group-title="▶️ TV ARGENTINA",ARG | CRONICA TV
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ1ZIdHpkOU5vMnJUQ2V2ajYySHZiTT0
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN SD" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="⚽DEPORTES ARGENTINA",AR | ESPN SD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWlOSE84SEtMWmEvNVdXejJNZURxOD0
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="⚽DEPORTES ARGENTINA",AR | ESPN 1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFU5MHFCd25tb1BYTU1HWnR3Y3JaOD0
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="⚽DEPORTES ARGENTINA",AR | ESPN 2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTit1L0FBYk9zN25pWDFWcDJMcm9FZz0
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 3 FHD" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="⚽DEPORTES ARGENTINA",AR | ESPN 3 FHD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTFU4bW55MCs3bjNmQS9JMU1HckgyZz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 4" tvg-logo="https://i.ibb.co/bgRKgH31/image.png" group-title="⚽DEPORTES ARGENTINA",ARG | ESPN 4
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTGRJLzh0OHJZV2plV210WjdGZktiUT0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/N2rw1H27/image.png" group-title="⚽DEPORTES ARGENTINA",ESPN 5
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSWY0cmxjenUydU03UThkNTBQWVJtYz0
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://i.ibb.co/3LTR6JL/image.png" group-title="⚽DEPORTES ARGENTINA",AR | ESPN PREMIUM HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSTUxOCtycjVhU2J3WDVxc1cwQXUrQT0
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="⚽DEPORTES ARGENTINA",DSPORTS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT0YyMTVSbjFYdzBEdTJubzF5RE9CVT0
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q" group-title="⚽DEPORTES ARGENTINA",AR | FOX SPORTS 1
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHBaRGZiK2xQVE5ickNtcWVnUGF4Zz0
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="⚽DEPORTES ARGENTINA",AR | FOX SPORTS 2
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT1B3RTBwVmN5RHluUU4yU2xYZmVVQT0
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://images.seeklogo.com/logo-png/51/2/fox-sports-3-logo-png_seeklogo-510012.png" group-title="⚽DEPORTES ARGENTINA",AR | FOX SPORTS 3
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSWt6aVFlUVNSdmVKSzdXbkNYaU0zRT0
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS" tvg-logo="https://cdn.aptoide.com/imgs/4/2/f/42f9af941ee13c06b9a90420f2accc64_icon.png" group-title="⚽DEPORTES ARGENTINA",AR | TNT SPORTS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ01ybG9kUTRJVFFKVWlGbWh0TFliMD0
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS" tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj" group-title="⚽DEPORTES ARGENTINA",AR | TYC SPORTS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWE5OXB3UVNuZUFFOURoeEcxdk1ybz0
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM | SPACE  -" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png?itok=NjYgUe-D" group-title=" ⭐CINE PREMIUM",PREMIUM | SPACE  -
 http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTlFPQllUVzg3NUk1R2hpMW5KbFNHRT0
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM | SPACE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png?itok=NjYgUe-D" group-title=" ⭐CINE PREMIUM",PREMIUM | SPACE FHD
@@ -380,74 +302,736 @@ http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSTdPOC9CRDVBelRQUndZUnZ1LzRtWT
 http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUGZxY3NOTXMrV0MxQ3dOZ3hHZ1NUTT0
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 002 Argentina ●" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GdJlrDych8aUpRSINiMUWwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="✨REALITY EN VIVO✨",GRAN HERMANO 002 Argentina ●
 http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSVFxZ2hMOUNldXV5YWJGY2lGSkpIWT0
-#EXTINF:-1 tvg-id="" tvg-name="Reality : Nace una Estrella" tvg-logo="https://media.cr/wp-content/uploads/2025/02/NaceUnaEstrellaLogo.png" group-title="✨REALITY EN VIVO✨",Reality : Nace una Estrella
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2pPOWFtc2hYd001L1ZTNHd2ZDFtdz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png" group-title=" ▶️ TV PERU",PE| Latina OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWVUTkNkd2JqNFkzUElnTE5JaThBMD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png" group-title=" ▶️ TV PERU",PE| Latina OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSjB1UG1taUtWazJWREwwM01ya0NJTT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| America OP1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Am%C3%A9rica_Televisi%C3%B3n_logo_con_fondo_naranja_-_entretenimiento_2016-.svg/revision/latest/scale-to-width-down/250?cb=20240207233426&path-prefix=es" group-title=" ▶️ TV PERU",PE| America OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR2tXQWQ0cWlmcjJlWVhXNFlNTnJ3UT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| America OP2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Am%C3%A9rica_Televisi%C3%B3n_logo_con_fondo_naranja_-_entretenimiento_2016-.svg/revision/latest/scale-to-width-down/250?cb=20240207233426&path-prefix=es" group-title=" ▶️ TV PERU",PE| America OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFk0SHp5QmtTei9tdTFib3JpNUhnQT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| ATV OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1200px-ATV_Peru_2025.svg.png" group-title=" ▶️ TV PERU",PE| ATV OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTGh3KzlPQUNpdDBWamdxWFN4UXc4MD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| ATV OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1200px-ATV_Peru_2025.svg.png" group-title=" ▶️ TV PERU",PE| ATV OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ29DeXNvU1Y4cHRJY3IrUnJtbnI4Zz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Panamericana OP1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Panamericana_Televisi%C3%B3n_2014.svg/revision/latest/scale-to-width-down/200?cb=20230422233447&path-prefix=es" group-title=" ▶️ TV PERU",PE| Panamericana OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS0QrcXRXMjNOU2RuU0I1NHVzSjNIcz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Panamericana OP2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Panamericana_Televisi%C3%B3n_2014.svg/revision/latest/scale-to-width-down/200?cb=20230422233447&path-prefix=es" group-title=" ▶️ TV PERU",PE| Panamericana OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQnY2cUpsTnkrYWp6WXdGc3lhUFBqdz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Canal N OP1 HD" tvg-logo="https://i.ytimg.com/vi/uTggKcvfuCU/maxresdefault.jpg" group-title=" ▶️ TV PERU",PE| Canal N OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUG16QytUZDZaZXNMRld4RVE2eXNJMD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Canal N OP2 HD" tvg-logo="https://i.ytimg.com/vi/uTggKcvfuCU/maxresdefault.jpg" group-title=" ▶️ TV PERU",PE| Canal N OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSHlLZFhGSHVNallPNkJkaUNrWTRGOD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Willax OP1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Willax_Televisi%C3%B3n_logo_apilado_con_fondo_2010-2015.svg/revision/latest/scale-to-width-down/250?cb=20221028144926&path-prefix=es" group-title=" ▶️ TV PERU",PE| Willax OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSFI1RWdIV096Qy96ZkxPaWdQL2g1QT0
-#EXTINF:-1 tvg-id="" tvg-name="PE | Willax OP2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Willax_Televisi%C3%B3n_logo_apilado_con_fondo_2010-2015.svg/revision/latest/scale-to-width-down/250?cb=20221028144926&path-prefix=es" group-title=" ▶️ TV PERU",PE | Willax OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTFB0cVZ3eFRrSFZXbVZDSkVMZEs3dz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Exitosa OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title=" ▶️ TV PERU",PE| Exitosa OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSXJNRFFOdWNCUTlxbXlWUkY0bExDOD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Exitosa OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title=" ▶️ TV PERU",PE| Exitosa OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTFRpSkp0SWRVSndrbm1wMEVyR1pNOD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| RPP OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/1200px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title=" ▶️ TV PERU",PE| RPP OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiREtRWDhiRFFVdjE1R3ZiY2ZpMVhPbz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| RPP OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/1200px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title=" ▶️ TV PERU",PE| RPP OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT3FTbkNFVzF2djFCMjI5eklqa3JMTT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Global TV OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title=" ▶️ TV PERU",PE| Global TV OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSFBqWkRpQU5HK0ZuUEU5YkduWStVND0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Global TV OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title=" ▶️ TV PERU",PE| Global TV OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTHQvSE5aWGxYSzZRK1M3VVEzMWNCRT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| ATV+ OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title=" ▶️ TV PERU",PE| ATV+ OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRThiVUh6d253N2F3ZnMvcDFWTnU0TT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| ATV+ OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/ATV%2B_Logo_2018_%28Versi%C3%B3n_1%29.png" group-title=" ▶️ TV PERU",PE| ATV+ OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSStkRjlnM2ZCNXJwcURYaVl4bVU3MD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| TV PERU OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title=" ▶️ TV PERU",PE| TV PERU OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmVJemZiR1FqYkZtQjhFaGJPbUtkST0
-#EXTINF:-1 tvg-id="" tvg-name="PE| TV PERU OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title=" ▶️ TV PERU",PE| TV PERU OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRi9nUnIxYzN5UEhpVzQ3ZndOazJiWT0
-#EXTINF:-1 tvg-id="" tvg-name="PERU Noticias OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title=" ▶️ TV PERU",PERU Noticias OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT21PSFc2Mk8yYlVITHBYR2NIRFNNdz0
-#EXTINF:-1 tvg-id="" tvg-name="PERU Noticias OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title=" ▶️ TV PERU",PERU Noticias OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTJHcWxjeHpydStGUnVqdWYzY1NuTT0
-#EXTINF:-1 tvg-id="" tvg-name="PE | IPE OP1 HD" tvg-logo="https://tvperu.gob.pe/sites/default/files/32.canalipe_1.jpg" group-title=" ▶️ TV PERU",PE | IPE OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSkdJTzlIa01KL0dBdkt2OVJTNW01WT0
-#EXTINF:-1 tvg-id="" tvg-name="PE | IPE OP2 HD" tvg-logo="https://tvperu.gob.pe/sites/default/files/32.canalipe_1.jpg" group-title=" ▶️ TV PERU",PE | IPE OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTUZQd0JxSDNhRnd4Qjh3ZnQ4ZnZLND0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Nativa OP1 HD" tvg-logo="https://canalesgratis.tv/wp-content/uploads/2024/02/Nativa-TV.jpg" group-title=" ▶️ TV PERU",PE| Nativa OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQlg4dGR1bEFmSG8yNVE2NGx3eGIrWT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| Nativa OP2 HD" tvg-logo="https://canalesgratis.tv/wp-content/uploads/2024/02/Nativa-TV.jpg" group-title=" ▶️ TV PERU",PE| Nativa OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2szVWh0eklTVGwvMjBIcTZlYS9JVT0
-#EXTINF:-1 tvg-id="" tvg-name="PE| KaribeÑa OP1 HD" tvg-logo="https://yt3.googleusercontent.com/zSQYhFcBwWvPyMBjGYs93vCtj4RoIh3OpcKALMggdLFfBVkW9H5Ek5l2dpqsiaWjoS4nRD2cBg=s900-c-k-c0x00ffffff-no-rj" group-title=" ▶️ TV PERU",PE| KaribeÑa OP1 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHZvWXlWbVYrYmpNSE9mcjNpUTVVMD0
-#EXTINF:-1 tvg-id="" tvg-name="PE| KaribeÑa OP2 HD" tvg-logo="https://yt3.googleusercontent.com/zSQYhFcBwWvPyMBjGYs93vCtj4RoIh3OpcKALMggdLFfBVkW9H5Ek5l2dpqsiaWjoS4nRD2cBg=s900-c-k-c0x00ffffff-no-rj" group-title=" ▶️ TV PERU",PE| KaribeÑa OP2 HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUG9WQk10OTVFeUpWOFltdGpiVHhhbz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| HTV HD" tvg-logo="https://pbs.twimg.com/profile_images/623166582664130560/6TL8fTMO_400x400.png" group-title=" ▶️ TV PERU",PE| HTV HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRUhRMHJFZkJiWHUzRElmMmE3MlVlOD0
-#EXTINF:-1 tvg-id="" tvg-name="PE|TELEHIT HD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2017/07/Telehit.jpg" group-title=" ▶️ TV PERU",PE|TELEHIT HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS1QvOXk0RVV1cGFqbmhQU2w0V3VKYz0
-#EXTINF:-1 tvg-id="" tvg-name="PE| PBO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/PBO.svg/revision/latest/scale-to-width-down/1200?cb=20220628145649&path-prefix=es" group-title=" ▶️ TV PERU",PE| PBO HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTlRXL253SlNRTVR2OW5nbmpDTmFRVT0
-#EXTINF:-1 tvg-id="" tvg-name="ATV SUR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfJQPk4LZt_ao8cQ2f4YyPfK8aWU52tKdTA&s" group-title=" ▶️ TV PERU",ATV SUR HD
-http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR3NHMVFBUmRFSFplYS9SQ0tyZkJDYz0
-#EXTINF:-1 tvg-id="" tvg-name="PE|BITME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_ZoQk6EISShv
+
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | BABY TV OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title=" ⭐INFANTILES",NIÑos | BABY TV OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiREkzdTljbUR4YU8xSkJBVXpWR0Z4WT0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | BABY TV OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title=" ⭐INFANTILES",NIÑos | BABY TV OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQlJkWC8reTlhbjZMMGJFdzByM20rTT0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | NICK JR OP1 HD" tvg-logo="https://static.wikia.nocookie.net/logofan/images/e/ee/Nick_Jr._Rheneasland_Logo_%281999-2007%29.png/revision/latest?cb=20240102175147&path-prefix=es" group-title=" ⭐INFANTILES",NIÑos | NICK JR OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTDIrVDhUYUtpdWV3MVFFdHA0V2lSMD0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | NICK JR OP2 HD" tvg-logo="https://static.wikia.nocookie.net/hitentertainment/images/f/f7/Nick_Jr._Logo_.png/revision/latest?cb=20210203102525" group-title=" ⭐INFANTILES",NIÑos | NICK JR OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTDdyY0NCU3ZBbEo1eHJkeTNNR1I0dz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Nickelodeon OP1 HD" tvg-logo="https://comicbook.com/wp-content/uploads/sites/4/2025/05/Nickelodeon.jpg" group-title=" ⭐INFANTILES",NIÑos | Nickelodeon OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRU11dVJ6cUFxaXp4aFZTZGo5NEpuTT0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Nickelodeon OP2 HD" tvg-logo="https://comicbook.com/wp-content/uploads/sites/4/2025/05/Nickelodeon.jpg" group-title=" ⭐INFANTILES",NIÑos | Nickelodeon OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSC9xRERhZnFTU2w3N1N2QzJuelUvUT0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | TEEN NICK OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title=" ⭐INFANTILES",NIÑos | TEEN NICK OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWpQeUpHcHpYejhUWG1KcTJDejhKZz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | TEEN NICK OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title=" ⭐INFANTILES",NIÑos | TEEN NICK OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRE94blhiUnRJamE4R21hL2dNL0VBYz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Disney JR OP1 HD" tvg-logo="https://static.wikia.nocookie.net/disneychannel/images/c/c6/Disney_Junior_logo.png/revision/latest?cb=20221028031642" group-title=" ⭐INFANTILES",NIÑos | Disney JR OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlhpS3F6OEdwN2hQSUFBb3huVnF1RT0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Disney JR OP2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWyVcgbta5_RL2K2EPgrPiK-DrW7icmSCNQ&s" group-title=" ⭐INFANTILES",NIÑos | Disney JR OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTURUL2U3WjB2bnU3ZnEvMkpqaUNNdz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Disney Channel OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title=" ⭐INFANTILES",NIÑos | Disney Channel OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRXlYOXVrbWZjOUFmN2dsclpDRFkrZz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Disney Channel OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title=" ⭐INFANTILES",NIÑos | Disney Channel OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUGE1MG9vM2t0aUFBQjBENVE0dkZXST0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Discovery KIDS OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title=" ⭐INFANTILES",NIÑos | Discovery KIDS OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR3dXczdYUXJCbnhWV0pXNjFZcTdiYz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Discovery KIDS OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title=" ⭐INFANTILES",NIÑos | Discovery KIDS OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQnJpYyt4SWxNVEswWHFRU1h4R29Obz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Tooncast OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title=" ⭐INFANTILES",NIÑos | Tooncast OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmsvN3c0eE5YYXpybHMrMkFTSVk2ND0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Tooncast OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title=" ⭐INFANTILES",NIÑos | Tooncast OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTHJ5Q3BKRHpaRzJrakFZMW82RFU0ST0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Cartoon Network OP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoon_Network_logo_%281992-2010%29.svg" group-title=" ⭐INFANTILES",NIÑos | Cartoon Network OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmk2RnhhdkdKUG56aldWS01pS0QvST0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Cartoon Network OP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoon_Network_logo_%281992-2010%29.svg" group-title=" ⭐INFANTILES",NIÑos | Cartoon Network OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWZCRndCcnk3SFd3OEZOV3RpVzh1cz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Cartoonito HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/dftmwp8-8a21a25c-5d5b-4f2a-a12a-8b51584fed4e.png/v1/fill/w_1280,h_417/new_cartoonito_logo_by_abfan21_dftmwp8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZnRtd3A4LThhMjFhMjVjLTVkNWItNGYyYS1hMTJhLThiNTE1ODRmZWQ0ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RA8ZK18Zamsl3uyYcqwYJkT-H-ptwwY1_JdaFOeK7K4" group-title=" ⭐INFANTILES",NIÑos | Cartoonito HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSFpySUEreFhwZWdKaDU5elRDN3ltYz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title=" ⭐INFANTILES",NIÑos | Boomerang HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUGZYdGt2R2M2ZWhSQ1hvNk5nY25mdz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Semillitas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/SEMILLITAS_SQUARE_%28JPG%29.jpg" group-title=" ⭐INFANTILES",NIÑos | Semillitas HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSTlQR2xZUnZoejBzbWhNQUVVbzduaz0
+#EXTINF:-1 tvg-id="" tvg-name="NIÑos | Adult SWIM HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a46d7d8-d8e1-497a-9b13-3e452d07e286/degxqhq-bd863f7d-79db-425f-9e39-d8ef1943b80e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNDZkN2Q4LWQ4ZTEtNDk3YS05YjEzLTNlNDUyZDA3ZTI4NlwvZGVneHFocS1iZDg2M2Y3ZC03OWRiLTQyNWYtOWUzOS1kOGVmMTk0M2I4MGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZOJC5gaRoz7jpCTtjy4qbVFwrV690O743LtU0L4qmDc" group-title=" ⭐INFANTILES",NIÑos | Adult SWIM HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSWhVSHVVZ2o0RlpyaDdZYU1GOVpLZz0
+#EXTINF:-1 tvg-id="" tvg-name="BAbyfirstTV OP1 HD" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/04/babyfirst_logo_2019_BabyFirst-Vertical-1-400x207-1.png" group-title=" ⭐INFANTILES",BAbyfirstTV OP1 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQnZJTFFjUk9IK0dIVHkvNGtZTlllUT0
+#EXTINF:-1 tvg-id="" tvg-name="BAby first OP2 HD" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo-2006.png" group-title=" ⭐INFANTILES",BAby first OP2 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWhiN2ZBbXgyTkhpTWFDbWFOUnlQaz0
+#EXTINF:-1 tvg-id="" tvg-name="BItme HD" tvg-logo="https://www.newslinereport.com/online/nota_bitme-sera-el-nuevo-canal-de-videojuegos-esports-y-anime-de-televisa.jpg" group-title=" ⭐INFANTILES",BItme HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSDcxc1NSamlzY0Y3LzV6T2lZZVdtYz0
+#EXTINF:-1 tvg-id="" tvg-name="PLIM PLIM HD" tvg-logo="s:1:/images/ZXyM4BhQE1FZqyUQZjnQYOcGGDQeczX76hL-0XlKP3Ljoe8a0w10wCq4M9tC3idkrn1ZPh846CfyB4fmC0q5mw.png" group-title=" ⭐INFANTILES",PLIM PLIM HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRU1RZUJ0NmZaWUtHNlpZMVVwd0V5VT0
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="https://i.ytimg.com/vi/kex0UFkR4d8/maxresdefault.jpg" group-title=" ⭐INFANTILES",Zoomoo HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRERVNEJjNHA3Z2ovd3VlWGVCaGFYdz0
+
+#EXTINF:-1 tvg-id="" tvg-name="TL Novelas HD" tvg-logo="s:1:/images/DQ40aGAWrM_ngxBq4i9RVkUEtWaBgyKuU4glqseHRqfpliY17b6FBej5FmDv25_eF-Y0qBIldpWuDSM0Swo6zNVCnbaNA8WdAN54d5gKHfc.jpg" group-title=" ⭐NOVELAS",TL Novelas HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTzlrb05Xdkh2L1BPSUVLUnlHS3BBVT0
+#EXTINF:-1 tvg-id="" tvg-name="COrazón HD" tvg-logo="s:1:/images/6YbLmneFhPb3msx6gg_RIVwmGl-I70xL4iNUusFEArEOBUYPl5L-YM7n5UfcvoKhPZep-QsHQv9vSca2P_H32A.png" group-title=" ⭐NOVELAS",COrazón HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRmxqUDNKVlgyY2xhSml2WmF6UGp5ND0
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title=" ⭐NOVELAS",TNT Novelas HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGovdHFTV1JXblc2ZzliendFV2ZETT0
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas HD" tvg-logo="s:1:/images/6YbLmneFhPb3msx6gg_RIVwmGl-I70xL4iNUusFEArEOBUYPl5L-YM7n5UfcvoKhPZep-QsHQv9vSca2P_H32A.png" group-title=" ⭐NOVELAS",RCN Novelas HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRzgwb1ozeXBkVE1ud3F5cnZxRFBXVT0
+#EXTINF:-1 tvg-id="" tvg-name="PAsiones HD" tvg-logo="s:1:/images/BuU4DLdhqN5PSDakiK3YnwjvTVSJNlojUxJqRHRAX7ng2bDNELV0nkXpGTTJY_IUxnNsqV-6EfqtfbFaLdQYJhOyZ5FS1H8-EgpclulNkp9zTFJwBFf_xV2pFOnoKAkmx3g5J-n6GlMXOGf_Oxwskw.png" group-title=" ⭐NOVELAS",PAsiones HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTiszckl1RGdwdXZET0FsRVpVVVBjZz0
+#EXTINF:-1 tvg-id="" tvg-name="MX| Canal DE LAS Estrellas HD" tvg-logo="s:1:/images/TuagiUkwBQy7TU8crwpNOd-Y0Zicgey_yCZ0KzndUpttNKVy2IyyL9Jx90evfmLD.jpg" group-title=" ⭐NOVELAS",MX| Canal DE LAS Estrellas HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVZmUk95ZTRYWXNtTTdrblFWUWF4ST0
+#EXTINF:-1 tvg-id="" tvg-name="MX| Univision Novelas" tvg-logo="s:1:/images/TuagiUkwBQy7TU8crwpNOd-Y0Zicgey_yCZ0KzndUpttNKVy2IyyL9Jx90evfmLD.jpg" group-title=" ⭐NOVELAS",MX| Univision Novelas
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHdUQlRqV0NMdjM1WXNIWlBUVlc2bz0
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama HD" tvg-logo="s:1:/images/sWNW1bP6mpykDv4KWAzbfSRLCVH_Ml4bVyQaDqs-V8A.png" group-title=" ⭐NOVELAS",Kanal D Drama HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRlhlNW1jbG9XNnJROC9ldS9HSTFPOD0
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",ADN 40 HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiREF0YmpXRlpubVN3SXBzaGFMQWtkdz0
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",AZTECA UNO HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWpKdUMyWjN6RWN3MXY5czdJUXpmRT0
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",DE PELICULA HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUDIrTjNld0RINkJuR3pOYVdlUFlEaz0
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",DISTRITO COMEDIA HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT05GWGNudUN4U0RacUN5UDd2eDRZdz0
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",GOLDEN HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSGNkM09QR1EwcEgyZ2t0OUJ1Q0Vocz0
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",GOLDEN PLUS HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ0lBYU5GOUxJczZnMkkvY2t5bXZoQT0
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS -1HR HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",LAS ESTRELLAS -1HR HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR0FwWHI0aW81RUdqU0xuL1hIR2xzRT0
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS -2HR HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",LAS ESTRELLAS -2HR HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRk8rcFZtNHdHQ25DSk5qemFYL2crVT0
+#EXTINF:-1 tvg-id="" tvg-name="RCN+ HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",RCN+ HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSWJJSU13K2xyRkFnVTRwZDdEajVCaz0
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",UNICABLE HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTFM0MDlSeEw4ME5sVjRJSjlvNm5IUT0
+#EXTINF:-1 tvg-id="" tvg-name="ZONA TUDN HD" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",ZONA TUDN HD
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWRWT3Jmdm5kdVBVYVphZHYxT3AzVT0
+#EXTINF:-1 tvg-id="" tvg-name="VIX ENTRETENCION VIP",TL NOVELAS" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",VIX ENTRETENCION VIP",TL NOVELAS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRDJrVXVsTHdPYVJDa21zVVozODhzRT0
+#EXTINF:-1 tvg-id="" tvg-name="VIX ENTRETENCION VIP",UNICABLE" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",VIX ENTRETENCION VIP",UNICABLE
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTzJjQUhNSWZlbklKOXV1SmdLSnVIQT0
+#EXTINF:-1 tvg-id="" tvg-name="VIX AZTECA CORAZON" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",VIX AZTECA CORAZON
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRWpDVERuK1B3QURTeURXVFZ0OVRVbz0
+#EXTINF:-1 tvg-id="" tvg-name="VIX ZONA TUDN" tvg-logo="https://cdn-3.expansion.mx/dims4/default/0a496bf/2147483647/strip/true/crop/1469x800+0+0/resize/1200x654!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F34%2Ff532ccab4a49ad3885468e1576e0%2Fimage.png" group-title="⭐ VIX +",VIX ZONA TUDN
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ21mWDRGZjRUZ250WkF6S0tkaHZYRT0
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Reina Ester la Salvadora" tvg-logo="http://moon593.xyz:80/images/hSh0r5ENVdIdJud50VNBmxrk9MN_tT5vyxwUMB8HTOZoZB2zAMQNDLohzgwkq4VAX8HIsbR96jV3hxSiUvOF3Q.jpg" group-title="24/7 NOVELAS ►",✨24/7 Reina Ester la Salvadora
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRWtmNEIwendQbGMvUEx1ME1wcWtSND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amores Verdaderos (parte 1)" tvg-logo="http://moon593.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWMt0tnLkOcxGWroNMSn-T87AcPBF5mbdDwzhfVdP1khWNP1bSNOJraqApj-EjOPo6D95_vx-kauOCjjmAoHIb6.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amores Verdaderos (parte 1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQkZHZWhSWVFpVVR2Vnl0N1UzWFJXZz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amores Verdaderos (parte 2)" tvg-logo="http://moon593.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWMt0tnLkOcxGWroNMSn-T87AcPBF5mbdDwzhfVdP1khWNP1bSNOJraqApj-EjOPo6D95_vx-kauOCjjmAoHIb6.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amores Verdaderos (parte 2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSEFXZTlTbTA0aW9oOVo0b1dzbG9Udz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 100 Días para Enamorarnos" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sO0LACX5okrRMAyjyiy1jNq49kIU0VBS9jjn8AR08E_qFhAHtoHF8q4tSvNm6FJDGNn3rY3oDyu5BjW6ln0x0tI.jpg" group-title="24/7 NOVELAS ►",✨24/7 100 Días para Enamorarnos
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTEhmR0dHL0VucC9OMHdBbS9FWGlMRT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7  40 y 20 (2016)" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJvz_wDgxMosJqpuapvwdd2v5_WK7bqfMzyuJPqf5RDYzHiPXl2nIWKikygCC7lH4V7iWS52sO6Fax3ZatyeBWNT.jpeg" group-title="24/7 NOVELAS ►",✨24/7  40 y 20 (2016)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRlBySnpFSUI2Q3ZkNWJyeXpTRjRiOD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 A Corazón Abierto (parte 1)" tvg-logo="http://moon593.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXJfsX7i_zYgYfb0gERz7oSRcSljiuECkmqz-fgLtgCg-ZBduqstJ9GAe8mbolBkU4.jpg" group-title="24/7 NOVELAS ►",✨24/7 A Corazón Abierto (parte 1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQk5JUmNRclRSRmg0V0ZuTHNYT1JYND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 A Corazón Abierto (parte 2)" tvg-logo="http://moon593.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXJfsX7i_zYgYfb0gERz7oSRcSljiuECkmqz-fgLtgCg-ZBduqstJ9GAe8mbolBkU4.jpg" group-title="24/7 NOVELAS ►",✨24/7 A Corazón Abierto (parte 2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ1N1RDVaREpuSzdqdithSHBTK3ZjMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Al Diablo con los Guapos" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qul030bwI-U49Xi0a7zllReRwY_DY81F7EQvAWGEdMpDUwrgzclCTA1WUNo-QiLycEjxjqt8iWC6bEWq7DgGg0pYqvl4BS8OKp6SHXKpaMztzOAQTs1113zzvFeptjSv_gU.jpg" group-title="24/7 NOVELAS ►",✨24/7 Al Diablo con los Guapos
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRk1taEZRLzhMTHRyREZZMXNlYWlOQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7  Alcanzar una estrella" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qun8ZM4FRVUBF2YVtZ6cdiZgryfEHfN-_FoUuD8t_yxZ-3AbKQnS45Gsq22KGYkG47e6LiEl7opJcM_XD1WoGKaMvo09L9dNfLXaScqqXoioX0Cf1j4tldb5Huds8M9olVQ.jpg" group-title="24/7 NOVELAS ►",✨24/7  Alcanzar una estrella
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSllUR1VRcm44U0NwV1JsZllWYWxiQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amar a Muerte" tvg-logo="http://moon593.xyz:80/images/Ob5DHdjAlJTcigKHt0f-pq-L9Q_s-R9UpQldX_bww6LSV3OGz0eMruMDNh3iuWjLg30KBF68wWA0kiwK0tOFSZlBZUQ0pAkmbYg6KzgG4wyITiuTOaW8_Oj-xE2xrR6B.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amar a Muerte
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVhoYlN3WUlIRFR5RTQ0MDN0RysrQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amarte es mi pecado" tvg-logo="http://moon593.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVFeHkKkzeHCv12SukSjhK53GTSy8Ir8AeExGihWPPJpMRJYdKneKK7jfLu9Bgb2l4.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amarte es mi pecado
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS0JwdUd5OGhNNE9ycUFuYkE1TjdPTT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amigas y Rivales (parte1)" tvg-logo="http://moon593.xyz:80/images/hSh0r5ENVdIdJud50VNBmxrk9MN_tT5vyxwUMB8HTOa5-NHCFg4v-Kvi40q20PAbFe7MlLVu6FjtZdYv1_w5jQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amigas y Rivales (parte1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQW40MC8rMXA0cDBZVC9lNis4VzhIZz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amigas y Rivales (parte 2)" tvg-logo="http://moon593.xyz:80/images/hSh0r5ENVdIdJud50VNBmxrk9MN_tT5vyxwUMB8HTOa5-NHCFg4v-Kvi40q20PAbFe7MlLVu6FjtZdYv1_w5jQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amigas y Rivales (parte 2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTExHK0pPNk9rb3JBVE40dW50eTN4Yz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7  Amor a Segunda Vista" tvg-logo="http://moon593.xyz:80/images/5NvzgfY0UaBfoswVG3hffE9J2brRdfIovWGQjWajQG1NEaoRPYO8z0CRo7EuRzmH5t6EaOCCSgrLgIW4bL2i1FHrbUlziR9dC6PGH48Zc42Idc_FpNVCg6wT646g0oPC.jpg" group-title="24/7 NOVELAS ►",✨24/7  Amor a Segunda Vista
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2VHVFJOQmVxTlk3VlN2Y2dJS2lTMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amor de Barrio" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJuVlUzVaR6QRKAog0891njWtJ39rsPCPIenKRDoi-OOdQ7JiB4RpOqhKl4Er2EQKLwbZpvuRYntH6e085A28_O3.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Amor de Barrio
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRXp4aWpCT3dHdUF2VnRZNkIxUjlkcz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Anonima" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/movie_poster_big/public/images/movies/cover/2017/03/29/anonima-keyart-540x788.jpg?itok=eDdb_D4K" group-title="24/7 NOVELAS ►",✨24/7 Anonima
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUDFMaFcwSk14akNBS2tYVnl3MTFIQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Abismo de Pasion (parte1)" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJtLefItTo7pDjLSV3ie32E1sx1v7Sh6ARB05TC5_exbR8CKv4FUCXaQzaOIxZbS2P74PBDo40tZZ888sTb-mAIz.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Abismo de Pasion (parte1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT0tEYkxjbWlwSXBmTWtaeUJpcThUcz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Abismo de Pasion (parte2)" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJtLefItTo7pDjLSV3ie32E1sx1v7Sh6ARB05TC5_exbR8CKv4FUCXaQzaOIxZbS2P74PBDo40tZZ888sTb-mAIz.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Abismo de Pasion (parte2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHlDaHU3aVIvYkJ3QnpBVUtUbGdldz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Abrazame muy Fuerte" tvg-logo="http://moon593.xyz:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuYwh4pYyI0Fny9cJtnn9NG4jWEMfOzhdxZUvrUe-rs6tgEE-QcN4jCefCGvaYLoqqii5kjfRVsv5EZd3Sxj4vPBdgQaqmxjLE-a8uEoy680OSq-e_SJgaQoEaXPih4mKxr8-MkFucEeAdZS0M1nLoCa.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Abrazame muy Fuerte
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVVOeGVhTlRqVGo4SlVVTktDRGJUVT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Alas Rotas" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7mNu7Ol7_rH9F3mBQh8-JBiAEtTQFIkoxQeQ0G7NDhdA6mafEpZMtVn8E56BVat54.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Alas Rotas
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUGtUN1pRMkd1M1JWenh4QnpBU2hvST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Alborada" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumfAHMDQxT2dxxt9KQF50s2-zN-qCEIa8PNyt545oLVfdTVmUivRv7M_4iexpcUyszkoEf9hKRuXx_gTc1rxyO1EO5tZP_-Eh2L0tcb_Rr05rYadzn4BLGVT3wJRGNgek0.jpg" group-title="24/7 NOVELAS ►",✨24/7 Alborada
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSVZKb2k5WnpzdUdTNUpkN01Zb2Jsdz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Alguien te Mira" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7B_xDS4ZeiF_ljd2py8YR_VaWRdk7_9BSF5z5ogWblX80KpbvHs1n-JuZSxIU7KQbZBJjqYuCN56k4TTGaYaX43Y_WRBqfrwIgg2OxTQv-8Ie3QqbOj9DfS7SvCEImcuK.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Alguien te Mira
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRG1sUTBHZmxEYUxabGJkMnY4MTlGcz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Alma Revelde" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumE8FUFA0GqWIdyQSzwwXxg9v1Mdj7Dse0oNZ3kiofp59v0Ajew2Hj3z6C4Flai0U_W3z2cWSjApZK4fs4o5sXENZXwyQaa7WPQaMwhrFSgyAn8M3t3DWsiSHygR7uiZIw.jpg" group-title="24/7 NOVELAS ►",✨24/7 Alma Revelde
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQVc4Wmt3eTlnL2pScmVVYVcyZDBiST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amarres" tvg-logo="http://moon593.xyz:80/images/vzp4FuvKR0inTXb_MlBiUB9dcnPDOloWJW2NwOm5gmVKFIsPVJFO1TtxpE3dTBSh7Lrv_Q0Yar-K6rXVwM5tTlUC7-vZ3xAP7CUpYDGOneCkuJXrStokJJPjK0GHwJ05Vny8pRP858KA_CYAwhxiPw.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amarres
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSFRCNjhqanB5UEo4YkJMRWVuWWMyST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amor Obstinado" tvg-logo="http://moon593.xyz:80/images/lg0jvUr8w9TKSjukPp_lojFcLAAkULbjvlB-PLGbrlDnK3hg-7D0w1bhteh-SwT8Zg0cXhyGIE0gsZhYwUoz5g.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amor Obstinado
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTGs1ODNFRU5NcnpOK0lQRDVoRGVsND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amor Real" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qukEOF6Dm4cevuK9UVBjIRvRcsct59dlE41XQK2eHYX7uAez9XYxOK3iszUlAKhuMMY53Y-RDsNBCaZqvt6AYeb8TIQrjhMgeA7BdtAAV0l_WnH9NmnrKzeNiDje0_kP9WE.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amor Real
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHlRTDhrNjloUHllVjduWnFOeXBaWT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amor sin maquillaje" tvg-logo="http://moon593.xyz:80/images/xK5H29keJtpRM-LwhjmD2zLpLrAcC-Rj5rmXO4DDE42E0nQ2zPVek9rfbc7ySzZxylvde_QrDKOwcikv-7ba6g.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amor sin maquillaje
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQU9tc0hEOGlHSTdyTVplSDR0UHcxQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amy, la niña de la mochila azul" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJuPH26KdgzRIKsV7LhafedYqQ2r_1vw6_niBunpAbnn9o-KlaGUq1FySxqB9RU8A1ziiq9uib5YlfZG9EeEp_l0.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Amy, la niña de la mochila azul
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQU0xS2lKQnF0TWIrcCtRL2wrZWRVbz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Angela" tvg-logo="http://moon593.xyz:80/images/XSTNKyrnWJkO-JmgKUOjUhMxMJ3YzImxwvpHKSZPhAFQSPB5QDKWgf03IAnuWuK2.jpg" group-title="24/7 NOVELAS ►",✨24/7 Angela
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRk9oUXJ0REQ3VHNSYWkrTnpzSXZCRT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Antes muerta que Lichita" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJv8Tyh5xFMOvccFZQjbFw9aRExqXLKCXLjkFuRV59Ye6M0lrcMwkVeQZ_pZKLazMOVdrOZ7Lw1wm8cTvhvYIVM4.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Antes muerta que Lichita
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHEvalFRdGFYVEZFSDBneXdQRFdSTT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Apocalipsis (2017)" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX74oDxojtx1YOG9HRzGgS1Mck1ARJXOMnMD7eXb7mXzsoIhGmIH33sMwKiFBz4oB7w5VWFCEhYaR6dNK4nbnzymsgLWMpuv8-w8lUJIkTTwawzppgnfBsCBCdY0VbFrHsx.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Apocalipsis (2017)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVRQSDRNT2JQenY0dTA1aU5UK2tsST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Apuesta por un Amor" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qun4ZyGW7I7IHv6SAuHNviUooitN0PMZpNbhGxRFYmryHCPdtoWhwaZbddrL2ifDjV3YNF7cJQ-0iR5bEPu2uloo6GHQf6QAclVkCoV6clkS4PwknpFg--081k0FpMmIIBA.jpg" group-title="24/7 NOVELAS ►",✨24/7 Apuesta por un Amor
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRU9UQ1hSLzNsS2QwWHdQcFhNUnZVMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Aqui no hay quien Viva" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qunyA5ctDdMWw791lw1lZzoC82mbYGWi9g2fZ9RaumRd43PTm7aAGBXmC-PSHxsEIaYjJjtHKiVKfv8DtJCIPG8nR2RYMXhdaS9D-rx8ROnlg-Bq3Jhg_i-fY_ApAHRNh1ddGT40NeBKjnYwl9RRgDuv.jpg" group-title="24/7 NOVELAS ►",✨24/7 Aqui no hay quien Viva
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlB3NzNqQkorSnUraWJKNG9GS0pCZz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Avenida Brazil" tvg-logo="http://moon593.xyz:80/images/oMO1Un6tWrEC6tj-DE4emwauOh4wF9oyVpO5XLR52tKbNc--AKt9ki6E1UJJ0UXhFwZAMemxvoO0dwTvQA3wP6Qg6TFYInp0ojIhK8PZ5CI.jpg" group-title="24/7 NOVELAS ►",✨24/7 Avenida Brazil
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR3AyaTFKNkNsY3pPbnBlL21RL2QyUT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Aventuras en el tiempo" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7SVYH31DQm4W3ZXgJuVwMrEFuXzS6a4zXY0qLex8WxxCy9WcajMOSynBRos6T9QibV4QeLDFGe2mALLCNFoMk6Z34zEXqGvA0ziN18oyd-dox3zfxy71oW0l7zYISsNjx.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Aventuras en el tiempo
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSzJaellrRzFuY2pZTkVsbFVPandZaz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Azucar" tvg-logo="http://moon593.xyz:80/images/zhr0V6fwD8pZoqkFurj-DW2LdGP74m6cq9WupBYoqZvXnWQw51yJwmSZpg4HXI4EqGUiZClsr5i-bYaYcCJTgRnL7lYK1l6GFrMGp1KcC3s.jpg" group-title="24/7 NOVELAS ►",✨24/7 Azucar
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFRpZGV1bEhBTm5vV0prM2RvbkV0dz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Bajo un mismo Rostro" tvg-logo="http://moon593.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkDfkB16SNs75FIowKQqOlxHIqrN4ulCcLCClUs-Wc4dhMXYLEz2P29a4aVW60q3PZg.jpg" group-title="24/7 NOVELAS ►",✨24/7 Bajo un mismo Rostro
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS3FKbi81Y1lUQU11RWtWUXNaNVVpdz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Buscando a Frida" tvg-logo="http://moon593.xyz:80/images/C7e-wCxBfLMCEcEzn2aX2_xBG0C7GLTlQoeRT7UH5o0KWvDC0vgU-MU3tPF4d1XQiPNmHRW9jPDs6J33pRPhRk8zpYk-04hpIF2EABEId8E.jpg" group-title="24/7 NOVELAS ►",✨24/7 Buscando a Frida
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS1B4QmdOV3MwM2F6dGh2ME1jSW4yYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Betty en NY" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qukwyfyWR05c1ll_C2U02C9eEaFqbTYdmPLg0W-JrQZKIJH9qXmUT8NxTaDpGjp4BP0XUbvU5NVZoiDadPGjqSQA1zKmIQNlYGENS3pdaZe33GkL-zeyLp5_4HBURxVAZwY.jpg" group-title="24/7 NOVELAS ►",✨24/7 Betty en NY
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHh4UXlZUjFlYXNTQXR4Wm9abWltVT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Yo soy Betty la Fea (parte1)" tvg-logo="http://moon593.xyz:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuYqKqw2yS1D_Ldlq2TX8aq4U6GXzYHqdgqS19SKjRArjOnB9AqCFOMhQd8Sw6BMwAJHB3loNdxcXVqT0YXm4bVp98B5i75kXbnHQknVfqQq3NY69tdjd1goDjigIH7vNl4xGlZjQFRmP2Ox4MWG0yfHOanqFF746DeNwietwmBFkA.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Yo soy Betty la Fea (parte1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSDFzU042d2grbThCaUN5TWhHZHNOVT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Yo soy Betty la Fea (parte2)" tvg-logo="http://moon593.xyz:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuYqKqw2yS1D_Ldlq2TX8aq4U6GXzYHqdgqS19SKjRArjOnB9AqCFOMhQd8Sw6BMwAJHB3loNdxcXVqT0YXm4bVp98B5i75kXbnHQknVfqQq3NY69tdjd1goDjigIH7vNl4xGlZjQFRmP2Ox4MWG0yfHOanqFF746DeNwietwmBFkA.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Yo soy Betty la Fea (parte2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRENiejFORnl6SG01Uk5PNGV1MG8vQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Yo soy Betty la Fea (parte3)" tvg-logo="http://moon593.xyz:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuYqKqw2yS1D_Ldlq2TX8aq4U6GXzYHqdgqS19SKjRArjOnB9AqCFOMhQd8Sw6BMwAJHB3loNdxcXVqT0YXm4bVp98B5i75kXbnHQknVfqQq3NY69tdjd1goDjigIH7vNl4xGlZjQFRmP2Ox4MWG0yfHOanqFF746DeNwietwmBFkA.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Yo soy Betty la Fea (parte3)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGh1WU41RGd4UytSdjNvWUwzQUlzQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Bolivar" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sF4joXTq4BGyDawve3X9kes-WZeGkWLrTddCHJAFUGjnVgEpiNmWGthrqJ0HzDHXgr2umbth72mm_w7sC4T4ae8.jpg" group-title="24/7 NOVELAS ►",✨24/7 Bolivar
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVhxTVRoWEV4c0NnTDZkdm5FZXUyND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Cabo" tvg-logo="http://moon593.xyz:80/images/JAliTYMMcAgufG0KwtZngxdew6j5t5zS64Yf3BDGduuTczRX1bpRVxUrESJ40sIT3gYNg3lBzf3PiRXLDqZ5PNoAOGAJatc682CbRKCLP_5KuX7zKXAKfiURnV7CR6ALhrtEXIsQAGcIt92RtSthil2zG1yCYjsSrGtMJEvO60-vmmtTa3SjJcFDt63R2jP-TAsODZF6gjOJeDHI-UlTG02C6u0G-LSNam66a3NmKe4.jpg" group-title="24/7 NOVELAS ►",✨24/7 Cabo
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFExSmlyK21rcUcxamVtcFFvRGdzMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Cafe con Aroma de Mujer (2021)" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sF4joXTq4BGyDawve3X9keszPiZdgfptTfqIYqttVEAgDse5VOZdbqeHRAf_gQXZOYCs5gEcik1Jn1IlMBfBroM.jpg" group-title="24/7 NOVELAS ►",✨24/7 Cafe con Aroma de Mujer (2021)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS1RUM3FPMFhqKzlhYjhhbDNidHpGVT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Clase 406 (Parte1)" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX723qufXB8HtmDs_UFOmkpo9ka5ma3wMIbBaJhpKXqN1-ABomb6Z_FPRAxg5-ycDCE.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Clase 406 (Parte1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRnMyOTJ5M1NHazVKck1NY0xyUGtBND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Clase 406 (Parte2)" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX723qufXB8HtmDs_UFOmkpo9ka5ma3wMIbBaJhpKXqN1-ABomb6Z_FPRAxg5-ycDCE.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Clase 406 (Parte2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT0J6Z0oxR0RrdDVuK3FSR2hnL0VJUT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Club 57" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sF4joXTq4BGyDawve3X9kevBdgvdsRBQN3SasxDzYzdFdEOdPE24hWNGW7NBvea03KleUlh9cZsT5FYr8AOfTOY.jpg" group-title="24/7 NOVELAS ►",✨24/7 Club 57
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQnNpVTVsbnhvR3FENGFGK1JaOTRiOD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 5 Viudas Sueltas" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7P1uAUqCvDcZksi0-L58_2c17FopQ-p_T8TqAQkcRn08jmnxjh6fNYikFVtnXwDMQ.jpeg" group-title="24/7 NOVELAS ►",✨24/7 5 Viudas Sueltas
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSWcxNE0vOVJKMlIwQ3pGaGVST3RVdz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 A Mano limpia" tvg-logo="https://play-lh.googleusercontent.com/proxy/I-j_CXhIeJPl14CLcjZHQC0RdZ4d6r6epxgKYQgaM5-Ugzw-nEgQ57Rpgv9r_1VEJXr7CfFW6i3R5FR9_8KL5yw7xVn_ARfhI0-TMTfZ55nooYLvrzOHg_r0ORJwm5AupX3v4s7aTpAhpGVIEL9QwerMFi1Ea7-8_KR_Xg" group-title="24/7 NOVELAS ►",✨24/7 A Mano limpia
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWJ3am54S2M0ZHZGMUtZODMxcS9TYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Adrian esta de Visita" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX73L6lExcb_rWbMiRepZnTKKfYP-ouBr8OldPNqeX09Et8oDJAcdO_sMyqznJ82hHD.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Adrian esta de Visita
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ0oxM3dLZWpBNXF2d05tTkxWeEVRYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Alla te Espero" tvg-logo="https://play-lh.googleusercontent.com/proxy/MPYq3x2bBc_U-lkIl4NH0KghTos4e4LLSJXQj-g9-gVcl9QKV7Kv4nvHlIsPf6IW8pysxhH9e5-0jCTAT8WV4Rp9l_O0PgoUIl_NaqeKZB7GGt-KeYXqBqKqJ5-n3-mwK1apv_HY_003rPP5o0xDwbFD3sCO_9E7b-pt6A" group-title="24/7 NOVELAS ►",✨24/7 Alla te Espero
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTGFBQUZoc1VvdFVlc1RsY1BSVW41VT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amanda, Hay Amores Que Matan" tvg-logo="http://moon593.xyz:80/images/cn-H_iwmaCyJkYmtaTKH3PGCJZSa7vAfuurX1SCUSPyI4C_X2EgH9BU17hg68-e5g1XU04aaiiDfiBuybSG-ITe1PhNZY0rm8r245en3HLf13Hlf4wMqSxfj2WMJlZZh.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amanda, Hay Amores Que Matan
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGN6T2xMdGdSelk2MUJKUUlsMkpDcz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amantes del Desierto" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7gEm7o4tdBneJF8B7dmoGUZApnbrBSJ_lirDdh9pbZ9jWZzcccOxxEe6vUiUHPnLIMXKd9Gd0ilJ8wiJNaYF9FF9aY9oboXSTAB-VE5INVRKgmDeZbfhMrOmbYt8eIqm3.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Amantes del Desierto
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUGdDUkkya1k4Ujl0Z253VE9YaGZJdz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amar y Vivir" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sF4joXTq4BGyDawve3X9kesSPPfCfE-HD5f44T7l9vuYfjteOVKGiSbcyrd4tYwu4U6_NOZkiYpurVJ0TDnPQR8.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amar y Vivir
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlBHcUVXNlJ0c29LT2FzbkVybHA2ND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amo de Casa" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7bBv0lIzzIEjMi2FCWz92_AaF9wlnOKA_JSxipEdssoYi36LeSdJyrIaO63vQPMW9OfumarqLzQk-vR59Dox_Sg7IchSTfceQ1Swx4SsSwm-NhoyHo8OvXMkbxoNmhkuB.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Amo de Casa
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR0lrcU40U0xySWwwU2hDZmRQTTJiOD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amor en Custodia" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qun5s-PRhozYqQpNY5swMbUS2v3eX5ikLM65eNnYVvctFYXZU5DmoTg6qEqyYKt4QFRixU9Z8VYJQuTHqp22GrbeYoMR8X0YiXlhHHqKDmPZ0MogVSELsOcsaEUha6IjBEs.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amor en Custodia
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQlprMFNRY1p4L1NnYy83RE5LQm9JRT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amor Sincero" tvg-logo="http://moon593.xyz:80/images/xK5H29keJtpRM-LwhjmD2zLpLrAcC-Rj5rmXO4DDE43y8n3VakhXL24W8jExPxGUzRh3YYDxIjM0iXNftYkTFQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amor Sincero
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFFEZFVGN2ZVekplZmFFdGZ4bjBJUT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Amor a la Plancha" tvg-logo="http://moon593.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkDfkB16SNs75FIowKQqOlxHcNs5yl8S-M1x50mXnDYYmBnF43I2gf_G3o0UybprkJw.jpg" group-title="24/7 NOVELAS ►",✨24/7 Amor a la Plancha
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjRpVjlmd29LUHpnbDQvN1QybXp2Zz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Arelys Henao Canto Para No Llorar" tvg-logo="http://moon593.xyz:80/images/ycPtCdUYUcp7ryTTAjtTGBiDS-YG_oz1oqj3e7DzzDGjnRbIptpiT0UECZPwKMFeXxoesB-IPPf-2ajbsNY1TXT0k26_WKupBEelIdPv0pY.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Arelys Henao Canto Para No Llorar
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFpjajZoUjV1eVhHaFFya3pjVjlLWT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Bazurto - Made In Cartagena" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qum-r5ePfSW-l03Y3fb0mvs7zM2eOo_dnkRLLi0KAoxZt9Z_t50SQoUFG4ii_JeLzblOe3ecmjx8yLK3vjRfW4PF7xTnN4oZFbhmEuWmOptyyhXX4-XVcUvi1evbmhTQNBE.jpg" group-title="24/7 NOVELAS ►",✨24/7 Bazurto - Made In Cartagena
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR0VGemJ4aXlUUEU2VWpEWlVCOW5Idz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Todas odian a Bermúdez" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qukZa3S1Ijubixat8LvNweJAq4lT7okVzuNuGFKbut2qYeEd2GRBNkwsaAfJblt6cPhBfNre9_K2W37S3kAViRKRbYrgNFvHTNSDcTQbguL3k3jEJ_OPCQ55L9w7MVAG-AY.jpg" group-title="24/7 NOVELAS ►",✨24/7 Todas odian a Bermúdez
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSDlQNXp4V3Z1NmJhUWw4RVMxQnA1Zz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7  Cafe con Aroma de Mujer (1994)" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sO0LACX5okrRMAyjyiy1jNou2RYI18E_luoyTRhO1AXghRNet1cWx-0QwXP9cG3o0vcs4Xs6taxiujGQUTIP2VM.jpg" group-title="24/7 NOVELAS ►",✨24/7  Cafe con Aroma de Mujer (1994)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS0UyM2FkTEZOcVZacEFYL3NhNVQ5cz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Candela" tvg-logo="http://moon593.xyz:80/images/LR8MrRVTL_aIgOHHH-RFhgEc3FxuJXnPMxqshLReWJScO_v8eZD59k26l2iiauAoKjzzruakTzxR2i8Mb9lHbXz9DWiJTecwNjtwWv7o-eCMOf2URT2E7vWvI5aJBL6mlHqDrgsR4olLHLsVZYLaw8UNt_JFJYWpqpfzmzk8bMw.jpg" group-title="24/7 NOVELAS ►",✨24/7 Candela
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ3o0NUFMNUlVNDF5OVdlblBCTUR1ST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Celia" tvg-logo="http://moon593.xyz:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WubJUajss-FAmx6t0dU5t8Odi56Yo0DNqN4FnJVXYP6qqGT0_TnRpwGEmwlBBhdIKBizOpasw-lLvxsm8IjyFQ2V7_MXvzcF3KiyC46q_Kkg9SUpNauCOcPbbIwrN6BLT_uqDUQmKotpgZOzQ4-R-JeX.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Celia
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHowR09McnVuVDRzaEk1V0oycFIrWT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Chepe Fortuna" tvg-logo="http://moon593.xyz:80/images/bGa-680kvwBR5jLYQk0ew_Ja8AQbh_bA9_CMTluySUIxWgIWBmTCOMuo8lj4XtNa8r4v9y4_eJuT9QayJ0QvigON5FgrpGhA0fMRtkZf5JQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 Chepe Fortuna
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHhoRTNVVTdaalJYTStHNXNpMlh0WT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Chica Vampiro" tvg-logo="http://moon593.xyz:80/images/ytLDWf7G3d0JBI0Nil0svBps2aU_oNEE6U0yfHHAj1kZ4k4c0rWIgoaOls0hK_PzN-dXGr0zUL0xdb9afe3UFleoJwbDgO5CxkoXg-T7n80e-z03MkxNytPckHtCi3Pt.jpg" group-title="24/7 NOVELAS ►",✨24/7 Chica Vampiro
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTnh1c25jR2pIS2gyT1B2QTh6djdZWT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Clase Ejecutiva" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qundGSTrqKSOhGjwE_NR7tGWV1IcWfdDaFtxz_hunwPZIggYURyj_Wdz4KCnYXqqArQVPOrLzyU1xkxzuk7-Mj295cUGqsanDJyfCsKcM2TStBzw-bxK9SbsrcujT3yZ7P8.jpg" group-title="24/7 NOVELAS ►",✨24/7 Clase Ejecutiva
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTkEzVHFUS1VzbzVUeXFMVTZCS2JlQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Comando Elite" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiEVOQ3FikeD8BAG3j69-wPMqb-BjP9g9SPdtXa-DmyR6CjdJ7w65VGN0KmxGafZZlc.jpg" group-title="24/7 NOVELAS ►",✨24/7 Comando Elite
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTHdrN1RaK2Z1ZS8vTHZrOWJ4bm9YVT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Contra El Tiempo" tvg-logo="http://moon593.xyz:80/images/vzp4FuvKR0inTXb_MlBiUB9dcnPDOloWJW2NwOm5gmVKFIsPVJFO1TtxpE3dTBSh7Lrv_Q0Yar-K6rXVwM5tTtaScL9qaGZSMmIinHnvFvnPsav7e0PB8Jvc7bFnUYUaJebuD2FOTniaC0Vpr8Xe8g.jpg" group-title="24/7 NOVELAS ►",✨24/7 Contra El Tiempo
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSDZOV2g5RktXNk94dy9aaGtsa0VnZz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Corazones Blindados" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumCSrYYiC4wVmOxyDfKeZ7NVeHBsQOOy9i54Y0167tKacQUxOpLnv2nP18MYvcP5vjAdP2NDcz34w_hu0Llrlt23iY6J4NoZHY_ZFpjEB7rnf_cAp3ljqpCmI-rXubgBBk.jpg" group-title="24/7 NOVELAS ►",✨24/7 Corazones Blindados
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRTNXS05jT1VoZEllbC9vK25NWlhqND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Correo de Inocentes" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qunStyug2ZAJYNCsgY8FllxLASAj8AwhAfVZks-IYs76k191HdsBXOvcgN9lvKQcMywO7n4ZclGfy26NibOX2qPPPocAkhGmLHeMSbdzOL3F_clbqJA5ZZm0YSOrgxABt8c.jpg" group-title="24/7 NOVELAS ►",✨24/7 Correo de Inocentes
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSFhJenRQS2ZhejBBVjEzRlYzV3lSYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 De que tamaño es tu amor" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGiVnWPErr_CmDMbaX02eC4l_GidwoqFDq7TIt9Zo8RLHgrDNhTgAxmtWIGkeAmEMjovRNdz9A9jcxgrnFxKtNg564B12WsBvoWzu3QhULxNi1bGu1QU_tGfYGgI5xObzlylMlUhKs6BLB/s1600/dequesinopsis.jpg" group-title="24/7 NOVELAS ►",✨24/7 De que tamaño es tu amor
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ2ZqMldTZGRDbnNLaHMyaU9VNUJTbz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Diomedes Diaz El Cacique De La Junta (parte1)" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumQEBzEyk9Qb4lp9_ZHeTzmQ-WYrJsmniBaNGvE7kXRl_iq-g_KXW_AG5GFXhwF5Bc6N_B6jOzu9aH_zHB11mRsw4oNY1hWmFe9XikPJkjQNgHJGqBlgkd4rDLuyfApWMY.jpg" group-title="24/7 NOVELAS ►",✨24/7 Diomedes Diaz El Cacique De La Junta (parte1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjJFTDdYeGF3S0NoaXl3dHUzSk4yRT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Diomedes Diaz El Cacique De La Junta (parte2)" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumQEBzEyk9Qb4lp9_ZHeTzmQ-WYrJsmniBaNGvE7kXRl_iq-g_KXW_AG5GFXhwF5Bc6N_B6jOzu9aH_zHB11mRsw4oNY1hWmFe9XikPJkjQNgHJGqBlgkd4rDLuyfApWMY.jpg" group-title="24/7 NOVELAS ►",✨24/7 Diomedes Diaz El Cacique De La Junta (parte2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGZYeGQySWM2VFB3S3EyWFYyZTBsST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Donde esta Elisa" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumVlomcyEwdCvx_P0L2KTT5T32tU7G10GK6C6IXLk1x-n91dm0Pt2l4eDwkLls4-AeZNHt6daa4tsu_aJT3FOG5Z456jQOjrjJ5G9QwP7oxZqUzeRWAfjDgvILKgxBrY50.jpg" group-title="24/7 NOVELAS ►",✨24/7 Donde esta Elisa
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSjh0dlZ0N0oxMGswTDNHT1M5b1Q3dz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Dora La Celadora" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qunpogbhr2iuEZljFastYUXFwIa77Ef5igtsEUzVz0wWkaU24i3wh8w9YCYKC-0Jw6w4QI_1Q2V1LiX1IW9VvF9Juqs_OXxp4Cv1y55wNMAeC_XfvYkq7GZmjgK5YrOz8JQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 Dora La Celadora
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRXJzcXB4SGFXa2hVZ0xGNHZ2aDAxYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Doña Bella" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qundymgRB4ej3H4OXAw-bNrRy3xMi9rbSjX7R81PnlMjgWOqqOgCFzUuCWK9G4YR5NysjP308QdyXKFeCsrBJ94k3TbXkhhG0d2PUa2n0RI13a9skKdJrO10B96VzLz2ksQqysDgNSapjsSH9cdfiu-n.jpg" group-title="24/7 NOVELAS ►",✨24/7 Doña Bella
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRzM4QTRiV1YzMFhxazY0eXF1MVhWMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Amor es mas Fuerte" tvg-logo="http://moon593.xyz:80/images/_PFPECAfduyBrBSxQu9ZP85h51yohMk71DShRgfMlaR_vzS79kxfzuonsI9qlai-kqF3r8zrrwnGKB-_VxP9jQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Amor es mas Fuerte
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSVcxbGVhQkpQc3dIbitGT3lyODZyTT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Autentico Rodrigo Leal" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7_W3RWpbThNX7jz_Uj_jS0SIZlYi5dMGrHQZUn4rgUq7NtCmQ9MYBO7PRXIuZFyIV.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Autentico Rodrigo Leal
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSDdKenRkeXBtc3pZbHpqYWhPbWloTT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Baile De La Vida" tvg-logo="http://moon593.xyz:80/images/hSh0r5ENVdIdJud50VNBmxrk9MN_tT5vyxwUMB8HTOaCBhm1bgvW0CQy9-QTsB_HHp252qsLBy0XQtZ39oDTz_nJhFdWx4HtQ4EDRlSGCL4.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Baile De La Vida
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSnZhYW12bHQwTmlNOFlTZEpCdjNPZz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Bronx" tvg-logo="http://moon593.xyz:80/images/0YhbHu57FqAhnMXOuaU3WyQ8qD4t61lXAEJKDwWIcvfGxG0tE7rtloOW7aufXGFkH05zoyZhawwZU1k4wDwBFmI99NoSYgK7B4PMfYnXnM0wdrGbwnHBtCNSU5jbnxoI.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Bronx
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTzJNRHJxVGVzRVJVeDJkTnBCdG9acz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Clon (parte1)" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJv8arC4FNG-qltAQFWYG-hRTIxJCXMDyhaxEaKM7qoFCOWbg_pfYo9MRGkLR1fwEN91R828Q0Xule87Fln9jtw3.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Clon (parte1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRXRMYjBuM0g2Y0UzSXQ0L1ptTjVzYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Clon (parte2)" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJv8arC4FNG-qltAQFWYG-hRTIxJCXMDyhaxEaKM7qoFCOWbg_pfYo9MRGkLR1fwEN91R828Q0Xule87Fln9jtw3.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Clon (parte2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFdJMVZHZTZUTTlSdjBHMW40K3ZYMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Comandante" tvg-logo="http://moon593.xyz:80/images/ycPtCdUYUcp7ryTTAjtTGBiDS-YG_oz1oqj3e7DzzDHx0xguHlzYbVhVz6aUIoE9m61VgMWrxMXZMuvViWSd_Qc59Cutv1eNGYal6zo7EfA.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Comandante
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSWw1N21FeGhHR2ZWQVMvNW96NVpoQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Encantador" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7zYq4o-mx3l7Z2K-r-kSuDuAQXu0Y_vGIJTwGJaxxwmPv2_0FSzc1uTGaMAhlqDRm.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Encantador
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmIyOHUxZDI3U05wbVJZZ0VUNmQzUT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Estilista" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJud6Lg0AdkXoOkrDX-hw-e0ZVP_zB1s-alCbaC-hiP0x8Hwl8_aJDWh4gjcVvbJkX203NUtdN02drMcb_8-LdhT.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Estilista
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFhHMHpwQWFPVG9RdkxJaVFpY1g3az0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Fantasma Del Gran Hotel" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX76N8EPTOCLDCaJWzmPVw_lyMzGX8wzKZs7KUN_ICkIFYN2uxj9Mj3RJ-CZSl3Mg30sZm6grMAxNMcfU-8T2QLDkkVPQgosgdDYiVckZHw_nDsCUAafgsJMu-GM0O-DnKG.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Fantasma Del Gran Hotel
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQk5RRXBwMXk2aVlMS2VrVzlOaEV1az0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Fiscal" tvg-logo="https://play-lh.googleusercontent.com/proxy/GZ3eu-l_BMCPVCN9ydNknwZUjLeNZytYfKT748qaW3UkImC3FnmmKZAyPm65a1Yd6bY5cHmyNqN_EVTlMQ6V0u8LdZnZU62dKTjN3WvwEkyZg_eFwqm5Xue2iDZZ2VCFPZiLBsbKeCmZoA5Aj87blXs9OMCGpWI5wQs15Q" group-title="24/7 NOVELAS ►",✨24/7 El Fiscal
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjBqd0dwbkNVcGVyNjBZZjdJUCtyST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Gallo de Oro (1980)" tvg-logo="http://moon593.xyz:80/images/_0l1TuPP77Bniq7icM7CRkA3bY9UZPTV7D7IZuyOfhB5R-PYIYx1jk6W9eULBby4XvbErPcOCJe2UtGuQiI-4nmCmFOtX82h2tOCkqVFFzEVxvbTN0NjihI7EPJ1nKAvrWO7_CPptCx5ba_m4ezzqw.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Gallo de Oro (1980)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSWpVZzFPanFSNXhBeDU4eEVFY0dKRT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Gallo de Oro (2023)" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2023/10/1_ElGalloDeOro_VIX_Portrait_1200x1800.jpg?w=683" group-title="24/7 NOVELAS ►",✨24/7 El Gallo de Oro (2023)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRnFZY3hQQmhyZStyLzNCUWw3WWVOaz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Inutil" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7tcdQRc7JQ-sWqM9OJ1rB6O9duoLN4E12C0TUuEaJmp6lAxAC4YU_n7SetyE9-RCix7di3f2PY-KGvOaQh-7slqOSlbM2jlXL7JBpMFZxhdqTBEjYY373xEDq4F5mGS7S.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Inutil
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQkZHMGg4SWp0UStoWWFZbTB3NXFIcz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Joe, La Leyenda" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7P685obh5tZtYdcOhcQmLOcDbbKQW0fzY_CH-nIVJMVFwBj82O2whfHLZ_HotXiE-.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Joe, La Leyenda
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQnphRTVrOFhRZUxHVFZ3OEdtd2xQaz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Ecomoda" tvg-logo="http://moon593.xyz:80/images/hSh0r5ENVdIdJud50VNBmxrk9MN_tT5vyxwUMB8HTOb9k2E821289YSPkp68QBxkeTNHTGNUF2_KV6fjg3a1cA.jpg" group-title="24/7 NOVELAS ►",✨24/7 Ecomoda
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWNOQUE1QTdBSVE1SHFIZjY0MThNWT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Laberinto de Alicia" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumIgH_-HoDKo1zT9USeeH-FWVz6ohQBFoB0eH1XlsdzuxqRbyXcnDMEsk1Wn9-C6Uzut7F6Vtw2tomVCUZIBwPQna39Yxp_AUGM85Rr8xEBbAOJiZ1GkR7PhWNYMJxHbq0.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Laberinto de Alicia
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVErbU54Sk02UGVQRE1yQ2JqUVFZOD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Man es Germán" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiGk1fwgPtbsJiXYoK3B5dIvTC6ffK-KGRYh4G-ulduJEXlsMo1ISbR7Juthnuzr9o0.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Man es Germán
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUERHVjd2Y3QzS3dDZ0dYTEJnV21vcz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Pasado no Perdona" tvg-logo="http://moon593.xyz:80/images/Xk-wsTzpk-KMgMcbs7sXoI4mx94IspXUxPNhQ7dUjyZtfossQq2xFuM1sbND7t4j.jpeg" group-title="24/7 NOVELAS ►",✨24/7 El Pasado no Perdona
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjBFTzhhNUkwMFZqNStyT0tDK2ZLOD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Penúltimo Beso" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qulvFZCE3DOHSt6I7eZjamR7K5TNl3LKI-kBNltM8O09EsN45ZJ6afatNT_4imYQAEdwkpdNfrbKXZpELvaQeGAida3nRp9NAtvG33DhKnLAMSuBbp3AFdnFfbybWrPZqMoPbtsvH8wvb5ZQN8INpuV6.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Penúltimo Beso
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSHhkdG1YUUsvN0UySE5pYlVzSGdLRT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 El Secretario" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiFdzG4WyZrRTmoahQz6_3OXHd8jbQTCKyaXtG_j-4i28Xn1EdapmvU1Tu3QuqjmG2U.jpg" group-title="24/7 NOVELAS ►",✨24/7 El Secretario
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT2piOUFqTjVYTW84QlNLQmFtOVhVYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 En Los Tacones De Eva" tvg-logo="http://moon593.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkDfkB16SNs75FIowKQqOlxHyYhTQO41SfK4XbHOnyS5bouUXfZJ4pK8xgECK4p-Juw.jpg" group-title="24/7 NOVELAS ►",✨24/7 En Los Tacones De Eva
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTEtvU2hIZE9CRkYzUnFicWVIZEVxYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Enfermeras (parte 1)" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiFClF01YumoiFZi7MD51BJwEQF6NXZP9Z3WMYQy-Yj2G73N4jnSbm7VggHEJCjkuSc.jpg" group-title="24/7 NOVELAS ►",✨24/7 Enfermeras (parte 1)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHMyS084YlBUQ1BvMW9FdjVyZnlHST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Enfermeras (parte 2)" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiFClF01YumoiFZi7MD51BJwEQF6NXZP9Z3WMYQy-Yj2G73N4jnSbm7VggHEJCjkuSc.jpg" group-title="24/7 NOVELAS ►",✨24/7 Enfermeras (parte 2)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTFNHSlNOanJRY2JsWDFWSnVUdUw5ND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Enfermeras (parte 3)" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiFClF01YumoiFZi7MD51BJwEQF6NXZP9Z3WMYQy-Yj2G73N4jnSbm7VggHEJCjkuSc.jpg" group-title="24/7 NOVELAS ►",✨24/7 Enfermeras (parte 3)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTHJJTHQ0VHlYZUJNVXB3SWErN3krYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Entre Sombras" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJuhZ23wS3ePp3JYQ1NHZ9WUnMiaDC3hkNxr5LUtICzRwmGr7F2y5dBgwQ9jd8dJyUeX96BrvUsUKxXk7Y54yTxN.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Entre Sombras
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUDE4SEtaMEMxUU9tdGc1dnU0MFRkOD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Escalona" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7EPdKGSN6mEIsBz_yBTiSX5oQ9wbE3nUfgbl9Sy-LkcJfGoYLEKnIqX-h_f46ltsF.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Escalona
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTFRUVzVhSjYxS21hSGZNU05YYTVMND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Esmeraldas" tvg-logo="http://moon593.xyz:80/images/vzp4FuvKR0inTXb_MlBiUB9dcnPDOloWJW2NwOm5gmVKFIsPVJFO1TtxpE3dTBSh7Lrv_Q0Yar-K6rXVwM5tTukI3Oxyh1yEoz9NPy6XUcMTe5np70vH_MAmZoGCSPYbg2iY_FmOnac-a1sxThQPOA.jpg" group-title="24/7 NOVELAS ►",✨24/7 Esmeraldas
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTXZUZU5RN1ZGRHYvcXU4K3dLNHR3Zz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Fortuna" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qun1OU4l8Hwyko_j85rPm-eVUmRr_uM6rI4w60YmN5YD-Zrq3EI95FfWZXGDDl3OiVjZrFL9HfpZT3nZY2LVeHaDa2jHDNYXKvBSkNAev2-9PQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 Fortuna
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT0VOVUhmK3VaWjhFelR2U2FHeUZhdz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Francisco El Matemático (2017)" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qum56E_I4jkcgF8O4gdhFA3gNt1MxKj0Zk6rj2KaovieCmPId26a1X8Y4FooWJgnlRHBahiKJ2W0C--Sk1q9Hw8ys-6vdzyI0Ootf52yStEwWA.jpg" group-title="24/7 NOVELAS ►",✨24/7 Francisco El Matemático (2017)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQlQ4QkFLeXpZMzNDTG4zZkJacjEyST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Fujitivo" tvg-logo="http://moon593.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXcQiqrcPw5KKKE3JcyRL2uPqKMB6GOWvxeCO1nh8uBKaYnqHwYjQnkKEoHf8QwnGvdTdgjPTZ8A10tYdh_NLGN.jpg" group-title="24/7 NOVELAS ►",✨24/7 Fujitivo
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTjRHamZBSnJTVmU2VHp4RldsSnIvcz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Gabriela, Giros  Del  Destino" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiEDgSjNIDPG5_m5tr_3PXTRAu0mt_LAGSejDPeDqQtK-L02h7UQX5XO979FMk72q5LU1uVa_CCrhmSaCwRjVD3H.jpg" group-title="24/7 NOVELAS ►",✨24/7 Gabriela, Giros  Del  Destino
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSFlyNVVYaHA4akY2ZHcwcURoM2dPbz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Gallito Ramírez" tvg-logo="https://pasaelchisme.com/wp-content/uploads/2020/02/galli.jpg?w=990" group-title="24/7 NOVELAS ►",✨24/7 Gallito Ramírez
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRkFSL1lXQTBORTkyM0RLZm1tZHY5WT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Guajira" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qulGLHb3Enr5Y3oQ7zHr004ZoWE4cI3L935mmL67CQt_OhaEbMAG6S8s1GHeCMJ1f4pFuQYrvkrcfIbX3DYhXZfgVo31TH6bqwcUasFRz9sEMaEFYb_vUm3cJkH0rGsSjYI.jpg" group-title="24/7 NOVELAS ►",✨24/7 Guajira
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVY1UHc5cTRGSEsyUDBoNitQUy91MD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Hasta Que La Plata Nos Separe (2022)" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sO0LACX5okrRMAyjyiy1jNrvFg6XS401b88xqQ6L_QYQ7CNIWSQ1OS-jJUdIaUGAkJd2cmmfAYkmJ13yJ1feoTU.jpg" group-title="24/7 NOVELAS ►",✨24/7 Hasta Que La Plata Nos Separe (2022)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUGQ0OVlWdDhjRmM2TGJUOVg1YkQ4RT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Hasta Que La Plata Nos Separe (2007)" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiFHuHWQaQl58_TNdwmyLzUvnyWPa99-aQkjSDN1iUZRurNu0NQ_WrH-_Rs87_epLBrIXxOgMKso6vk2rQo96KOv.jpg" group-title="24/7 NOVELAS ►",✨24/7 Hasta Que La Plata Nos Separe (2007)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUVFZTFqTkV4b0FnTDFKNWdyRXU2bz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Hermanitas Calle" tvg-logo="http://moon593.xyz:80/images/omwMHyL8myScyNmiLfD5GrVaCQfiLZ6LDI97fZc7OiH698Pz79V9oSiTWpkiIIxPRRHOgFrCAI1t1Uvtj0K3T7YO3S5isD6IT71Ue5belnc.jpg" group-title="24/7 NOVELAS ►",✨24/7 Hermanitas Calle
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSFY0WitoZjkzZCsxa28zV1lsMWp3UT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Hermanos y Hermanas" tvg-logo="http://moon593.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVlmirgROoWJthTyMn5eb3z1-_PEFmXWSyBgyFYP-hH8CMM2TFiAFwZnhLifFAw5hI.jpg" group-title="24/7 NOVELAS ►",✨24/7 Hermanos y Hermanas
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTDBOMUxMMTBrNXQ3TWJkd3pRRHRaST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Hilo De Sangre Azul" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93quntZpzmF8Jr2wGsFuxsY2XCpHB-bQDiQHU9VwBS9Wbz_maOTyFZbCaMkwYkPOw0q8YujI1XsKx1gksrYAw1Lxnbk1KpjynmKzMR9xY8bwJBQA.jpg" group-title="24/7 NOVELAS ►",✨24/7 Hilo De Sangre Azul
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSVQ5bE8yM2lnd0xkUjhzUnUwSnVuaz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Hilos De Amor" tvg-logo="http://moon593.xyz:80/images/MK-famscuNXXT96MnDkwqNibtKK377sHiMKkTlq6GNndYtnYiVPIqLw4cEPI271U-Hz98pBwRsxN6DOPLfexVw.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Hilos De Amor
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjBkTmZwbUViamU1cmJQZzVLT3ZEdz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Historias Clasificadas" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumqf3Qi1AiaCiyzU0ohhJUY2_CAbGN00-siW74TE-oYOhIkdN7ks7E1mtFcq4HX8me-VgE2y2nLYuA8xrb12-DNC26kXPC9kVph5rFeCjL60g.jpg" group-title="24/7 NOVELAS ►",✨24/7 Historias Clasificadas
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS1lIQXVYNDBEUjVES3AzVDU1SmxzWT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Infieles" tvg-logo="http://moon593.xyz:80/images/vzp4FuvKR0inTXb_MlBiUB9dcnPDOloWJW2NwOm5gmVKFIsPVJFO1TtxpE3dTBSh7Lrv_Q0Yar-K6rXVwM5tTtw0xD9k29DbTtjp775wc9mufvSPzMwkuv1hzDc9QviURy8i555AYmln8gcepCnpqg.jpg" group-title="24/7 NOVELAS ►",✨24/7 Infieles
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTEZZRUJsRFRFL29OVlhVS3ZzZjVYZz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Infiltrados" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qukn5kqO_EVL7IXlve66w5vOPWz1y-oeZQO9h-BfeAsIU7L7MGXMgV_4E1ZxrlcIw3DJSJ63PqK86sq7duDs7BAN2l5_0wkY6ouGeQ7vTu_0GA.jpg" group-title="24/7 NOVELAS ►",✨24/7 Infiltrados
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSnlPTzIrOEhzZWFhOEs4YzZ2UCtnZz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 Juegos Prohibidos" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7B-BdEdEHDP1ZgueBDZjLRM6RszgruhQHh17D3yaTUVWvC-D0QgPdygX99nshMtIr.jpeg" group-title="24/7 NOVELAS ►",✨24/7 Juegos Prohibidos
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVl1MEVkQTBJb0lUWWt0NURQSlRrND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Baby Sister" tvg-logo="http://moon593.xyz:80/images/VInBYFrayDqNJIMmtO5bqtXd3WLKNHBgaMW7pvTMRJth9S-GNr0miPxgeA1fB2PPj2JiKyTSxvYp9jwMVYsh2VWhbmbZzwIEGmTNAhJx8HjvIzeBKxQ2-xMALECihpLQ.jpeg" group-title="24/7 NOVELAS ►",✨24/7 La Baby Sister
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSnd2QVE0ekkwazBETWNiY29LV3lJVT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Bella Ceci y el Imprudente" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7QXrBkJAcRyzkaUgWjdig9S7PaKkH9BaLir5g-8YdXo-xFHcHNOjScH0df3k9Nos7EbGCfWUwnwpF8kdN2ABm7o_A7Hgkd1bs0mEkYWW7pXCrIiWZcyvd4eCAM3D76Fhm.jpeg" group-title="24/7 NOVELAS ►",✨24/7 La Bella Ceci y el Imprudente
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRUdUUWtPWU0xOGk1R2FLZmxHNk5nbz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Bruja" tvg-logo="http://moon593.xyz:80/images/b5fWE8-O2WGNeyagNUw-sF4joXTq4BGyDawve3X9ket_lxgOdO3A77Noiw9G1Uo0CE3qmSkg9T0ZzmXGkECA8a7eXlZ4WBnglJBb37Yocts.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Bruja
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTTdxTThxeGhIVXQ1ODNUYXMvVXh5RT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Caponera" tvg-logo="http://moon593.xyz:80/images/vzp4FuvKR0inTXb_MlBiUB9dcnPDOloWJW2NwOm5gmVKFIsPVJFO1TtxpE3dTBSh7Lrv_Q0Yar-K6rXVwM5tTtPWDVijEELybSgwE4fo9nWkQD0ondqt74S1ZlaQFZ9J3groW8lRo8L0O5ciIiH2Kg.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Caponera
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSXdFVXZpSFJWQ0lrTG9IOFJTS1JSdz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Casa de las Dos Palmas" tvg-logo="https://biblioteca.inci.gov.co/bitstream/handle/inci/15527/La%20casa%20de%20las%20dos%20palmas.jpg?sequence=2&isAllowed=y" group-title="24/7 NOVELAS ►",✨24/7 La Casa de las Dos Palmas
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2lrakJWU0RiZE42TC9sUUNkMDdGND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Costea y El Cachaco" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qukg7eR55-nBWYA0f1G4HqvStFQWvxvKrgxcPqZK-bSJiWSORFhGeNGbI0Av5m6GGfk9yDPc1F3SKoZm5juW5eEDjPmPOPtJzb33SHoyxSr7QohUBlF4yZE0ucA_8zuZcB0.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Costea y El Cachaco
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmZzcHpoaXNYcGtQdE9pMFZmQ0txQT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Dama De Troya" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qunMlrZfHcu3awgJnzqM04UQELH3OmfxSNJ3-yy3yfg96cxlHriOn6As08gzfogcCEXAUloufnS3zBBbgALGXL3B4A9Vr0AlJR75tRH3HmgBeA.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Dama De Troya
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ1ZvblFNWVRDSW1nSk9MK1lRdE5scz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Dinastía Morales" tvg-logo="http://moon593.xyz:80/images/Lp__lIVbg2On08mRBEBjgpRvbrhfgBHK8QXGblPGnTQB3MLYeLbzs2Ojo9XGIcBGGvsfOiTDTKWcjQgSi3vL2lU1m5hQjyAg_RRr780o4UI.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Dinastía Morales
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ3YzQ0s5V3plZ2hKa3ZhM0NEbU1lMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Diosa Coronada" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7JsLD39PZwjIhgUs9c38d4R0AIgChAe6aNWRPlMfUHhB5apleJaTeV3RtPhi5ZyI1t3VN_SijisNMHK4ZTKqVpTH2u_IgVKZIkzojONwKTQFr5Z-HILkoE-Z-1gEuuwyb.jpeg" group-title="24/7 NOVELAS ►",✨24/7 La Diosa Coronada
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlQ0UkpOelBSN0x0YmZvT2w3SmdWMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Esclava Blanca" tvg-logo="http://moon593.xyz:80/images/q9NJDMIpd37R0qP5UpakLUF9rKzb_uAaYRDJox5_ILg3iSrjMY4i2l5dLNFxMC3MwVw7CfGyCKIBSGo9KEt_9qY8OCiFcFxNTMk3seC5dQk.jpeg" group-title="24/7 NOVELAS ►",✨24/7 La Esclava Blanca
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHd5eEZoSWo5RmZuUVFPcG1YUko3bz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Esquina Del Diablo" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qukoT-sMe4mlTjedsLX8DoCJcA47VIax9TQcHFZ1MVfQP2Trl8rRZoNqzKLfBswNtV4eLrpv3HSVqQhViw9q39vSP3DxcSR_lohZpHkSE4WrwQ.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Esquina Del Diablo
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVJvU21CYWc0RFlXVjhXL2dDZlhCYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Ex" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7-lHUm0qB6-lKLKpTDq-yPL2FL9ycceYp3IkOmzGtVDNQqTxv2-wF93trsRhVfiSnjsolDyqzx4AZ9ViwDk9fkXftiFIomSSpwOHr0Hr0xfosrHm_wdf27vUOU3gT4rQP.jpeg" group-title="24/7 NOVELAS ►",✨24/7 La Ex
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT2ZyRnpqL1UxWkVSbFlMU0E4aUdkbz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Fuerza Del Poder" tvg-logo="http://moon593.xyz:80/images/_PFPECAfduyBrBSxQu9ZPyEuioZ4SfikBgNLS46aE7KONP03U8btYrnLBGrNVBnr_aR1zkOfqSviQMSekNdLew.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Fuerza Del Poder
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRWpEZ1RSeTd4Z25HSkJiQ1hMNFVEaz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Gloria de Lucho" tvg-logo="https://static.wikia.nocookie.net/telenovelas-y-teleseries-tv-colombia/images/1/1d/Arte-la-gloria-de-lucho-en-alta_2232568_20190206145913.jpg/revision/latest?cb=20190525231828&path-prefix=es" group-title="24/7 NOVELAS ►",✨24/7 La Gloria de Lucho
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFIvbFhCbkxVWVBJdFUvVWZGbDdRVT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Hija del Mariachi" tvg-logo="http://moon593.xyz:80/images/Lp__lIVbg2On08mRBEBjgpRvbrhfgBHK8QXGblPGnTTvhbpkYD3L4QTYhpvOZWNttxdaYdOCAVr32Iip05A08yhd8N9bQpCUdkrEbXX_pfE.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Hija del Mariachi
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSzhIZTVhUkNuclIvTmJBSklrY3BKST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Hipocondriaca" tvg-logo="http://moon593.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7ZhQAzQtfERN3KFl5hftmaG9gqmUJYDvXYvln2EPrl8LAqTNqkgMsEDwiIE-9hs3h.jpeg" group-title="24/7 NOVELAS ►",✨24/7 La Hipocondriaca
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT2Zrc0lCQUFSeXFlK3J5V21BRDJwST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Lectora" tvg-logo="http://moon593.xyz:80/images/zKfiZc2EbAJTgBT8Q9G5p4YODEc4sDa5-D4fmTJgax9Mpggy3KrKT3Vuh4XLC5SBYQh2hJl0w5PJJjV1MUKYTdPXc_h0W1zlpK7xN_3uCTE.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Lectora
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSjk2ZFhoSnlJd1BZM09WWnBrZzVVYz0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Ley Del Corazón" tvg-logo="http://moon593.xyz:80/images/oMO1Un6tWrEC6tj-DE4emwauOh4wF9oyVpO5XLR52tKbNc--AKt9ki6E1UJJ0UXhXAjkwIp0sTv6dg89-nL_h09WPpy4yf6wFO7QIyWuY2E.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Ley Del Corazón
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFk1RVZLU081R2J6ajkwU2xGL0RqMD0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Ley Del Corazón 2" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qundGSTrqKSOhGjwE_NR7tGWyL0UQOPK1hL0khHDl7DtLH8A1vJOKPUjKIim3WHh7uvfMvrnKX8JKrBDjU_EtPPrMXwZH236LCBpcvlc-Ng7f0dExDeMp0CyXOPTZPTGxnM.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Ley Del Corazón 2
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTEp3MHNza1ZGNlRYWC9uSVVhazM1ND0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Ley Secreta" tvg-logo="http://moon593.xyz:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuYwh4pYyI0Fny9cJtnn9NG4ksy6JDuSGk0aLbeU3qofEBlFZV1do7lQNp4u-9GOEX9kz2ntgKpDeJaNsDgWordmf-twSGSTE5mSKb-i1bQ8Yo_3weJNiwSD0kHENfvVUvTGKhSElMhKsaJ9Mc04J8ui4PohbpcE7w1mFR3uJyhP_g.jpeg" group-title="24/7 NOVELAS ►",✨24/7 La Ley Secreta
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlJQZ1A0VXBST3VIWTBybm41R0tLRT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Madre" tvg-logo="http://moon593.xyz:80/images/vzp4FuvKR0inTXb_MlBiUB9dcnPDOloWJW2NwOm5gmVKFIsPVJFO1TtxpE3dTBSh7Lrv_Q0Yar-K6rXVwM5tTobY4X0WR9c4mwZNDjbEHsC7a4xwAazlu5xy4P2JIAmtjhMjazgqBVOItgr_wzcbeA.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Madre
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS0Job0U1R2RpL3IyRGc3WHBramNRWT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La mala hierva" tvg-logo="http://moon593.xyz:80/images/E0peRMbA6jqIm-6ZRyRcoQseN8Rj8g1xJ6EpkuS7uU9ZZQg-Q_EfgpYoDHkFM8M9nWuw6vGHuR-T9U0vLa9BHRXKTa8yfi3aakx6Mpafrfg8CbXbZ9g5t_xbNti4b0ADdN74YTcBTxmkCDb_866oWatYelQINPHL_kCBBzym67QGlgo_7YXeZH2XyNGUyuZJ.jpg" group-title="24/7 NOVELAS ►",✨24/7 La mala hierva
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ2ZTTHNZQ2hMNkxCblg2U3pYS0oxST0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La mamá del 10" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qukAoe7UXGOlb7ziX4KH-aIwMXOs0RUj-zGdUCB6rm1rb8SZDBULorr1v50fM0eNxwGK0G9hiEaHaTqNWbDaIOuhBZfK2XHeQ99NfSqMvw9D5Q.jpg" group-title="24/7 NOVELAS ►",✨24/7 La mamá del 10
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTjV2bjhoZ1pyamFSWnFEOXp1Vm91QT0
+#EXTINF:-1 tvg-id="" tvg-name="✨24/7 La Marca del Deseo" tvg-logo="http://moon593.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qunsNgFQVxHQq4XtGUZsWtys_fkch_dRxzalBFnxT2WXbhaxjnpzfkQv7xN2bgn84wqKbBakMSRJLS6d88fHL70O3End_m11CTzDeh7I8euzVdAJVzVHcx5cXfrbnz2pEeU.jpg" group-title="24/7 NOVELAS ►",✨24/7 La Marca del Deseo
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQkI4ZGNFdWNOa2lSNFdHSUN6Y1lLcz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BLAZE zone" tvg-logo="https://immaa.xyz/BLAZEzone.png" group-title="24/7 - SERIES Reality ► ",24/7: BLAZE zone
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVNkdGNxVkExeU83T2cvMHR5ZnZYbz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SABRINA ●" tvg-logo="https://immaa.xyz/SABRINA.png" group-title="24/7 - SERIES Reality ► ",24/7: SABRINA ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS1V0b0ZzRm9DY21WZDdPTnEyM2ZVND0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Caballeros del Zodiaco  ●" tvg-logo="https://immaa.xyz/CaballerosdelZodiaco.png" group-title="24/7 - SERIES Reality ► ",24/7: Caballeros del Zodiaco  ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS1E3cHFid1h4ZHFkbklPNTdYdmZudz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  HALO" tvg-logo="https://immaa.xyz/2447haallo.png" group-title="24/7 - SERIES Reality ► ",24/7  HALO
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRTh4RFdiVmY3eittWmQ0VUw3cDRzQT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Principe del Rap ●" tvg-logo="https://immaa.xyz/247prrrincerap.png" group-title="24/7 - SERIES Reality ► ",24/7:  Principe del Rap ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSnRtQWV4dGxlanFWekpTajk3UVFHZz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  MALCOLM" tvg-logo="https://immaa.xyz/MALCOLM.png" group-title="24/7 - SERIES Reality ► ",24/7:  MALCOLM
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQlpNWlJRWlJXMW5kTEQ5dUpJcWRYVT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CSI Miami" tvg-logo="https://immaa.xyz/247cssiMIAmi.png" group-title="24/7 - SERIES Reality ► ",24/7: CSI Miami
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmFlbkhDT3lmei9lb05GTmlmMzZlND0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Los Simpsons full" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="24/7 - SERIES Reality ► ",24/7:  Los Simpsons full
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTUZJL2lPL0pTVVl1QUwzY0pTdkVJTT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: The Big Bang Theory ℗ ●" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="24/7 - SERIES Reality ► ",24/7: The Big Bang Theory ℗ ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ1VjZnlFa2ZnYmlCT3M5SHI2WkNrbz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Two and a Half Men ●" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="24/7 - SERIES Reality ► ",24/7: Two and a Half Men ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSnUzalJPMUtwMGxNaHFrVE1qdkpKbz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Papel ●" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="24/7 - SERIES Reality ► ",24/7 La Casa de Papel ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTXUvN1RFMDJBT1dveUdWN0wrYnR4dz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Viajeros" tvg-logo="https://immaa.xyz/VIAJEroos.png" group-title="24/7 - SERIES Reality ► ",24/7 Viajeros
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS0FDalNkMFRENlBNNnFiQWh6dXc3az0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="https://immaa.xyz/247chaapulliin2.png" group-title="24/7 - SERIES Reality ► ",24/7 EL CHAPULIN COLORADO
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlF0MUtOUEl3dFVxMWJHbGoycENWOD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FULL HOUSE 3 X 3 ●" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="24/7 - SERIES Reality ► ",24/7 FULL HOUSE 3 X 3 ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTERpUFVlWUZTN05lbE4vUGl1VXBuaz0
+#EXTINF:-1 tvg-id="" tvg-name="24-7: FRIENDS ●" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="24/7 - SERIES Reality ► ",24-7: FRIENDS ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGRvZWRuOHVRN2daMHRnN2RKdGlldz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-r-rYSGs1ZiU/Xj4P2zbMpVI/AAAAAAAABJ0/FqA3uZ9ztQEBeyd6_6RsTs6QKQhhuqiFACLcBGAsYHQ/s200/terror.png" group-title="24/7 - SERIES Reality ► ",24/7 SERIES
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRDZlOFVXYjgxb0tGTXhXZG5OWm5IZz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE SUPERMAN ●" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="24/7 - SERIES Reality ► ",24/7 SMALLVILLE SUPERMAN ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTHBnSDFvNDZLd1pNVXJBYS9PNnBmQT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CSI Las Vegas ●" tvg-logo="http://tvstar.cc:8880/chimg/7062745879.png" group-title="24/7 - SERIES Reality ► ",24/7: CSI Las Vegas ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTZXU0tUZ0RxY1V5ZHE1T01GSzMwMD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MARVEL  Channel ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/MARVELChannel.png" group-title="24/7 - CINE PELICULAS ►",24/7: MARVEL  Channel ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT004cFVET1FjYTFYZXdVbllqdnA3cz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  TERROR Channel ●  ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/TERRORChannel.png" group-title="24/7 - CINE PELICULAS ►",24/7:  TERROR Channel ●  ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTmJKNnVqQVJYTVVVbGp0TzBRNFk0UT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE ZONE ⁽ᴴᴰ⁾ ●" tvg-logo="https://immaa.xyz/LAcccnezzonne.png" group-title="24/7 - CINE PELICULAS ►",24/7: CINE ZONE ⁽ᴴᴰ⁾ ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTVRWjBjVWR2emJuallyTTJJWlVEWT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NETFLIX Peliculas ⁽ᴴᴰ⁾ ●" tvg-logo="https://immaa.xyz/LAnnnetfffis.png" group-title="24/7 - CINE PELICULAS ►",24/7: NETFLIX Peliculas ⁽ᴴᴰ⁾ ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2VBbUNUNHB1TGptUElhdXFpM3BFUT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DISNEY Peliculas ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/DISNEYPeliculas.png" group-title="24/7 - CINE PELICULAS ►",24/7: DISNEY Peliculas ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQlgvUytnc2NVSk1aM2pPazlKL0Z6ND0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AMAZON PRIME VIDEO Peliculas ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/LAammmzprmme.png" group-title="24/7 - CINE PELICULAS ►",24/7: AMAZON PRIME VIDEO Peliculas ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRzFLWDlYZDBOK1FDNzgyaDZadUkxcz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON Ball Zone ⁽ᴴᴰ⁾ ●" tvg-logo="https://immaa.xyz/DRAGONBall.png" group-title="24/7 - CINE PELICULAS ►",24/7: DRAGON Ball Zone ⁽ᴴᴰ⁾ ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT3JZUCtGRVJMYjduNFVzbkRNMjdGRT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AVENTURA movies ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/AVENTURAmovies.png" group-title="24/7 - CINE PELICULAS ►",24/7: AVENTURA movies ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTkhDMkhqYk5pNEtseFd1NWIvWVdkOD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ACCION Movies ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/ACCIONMovies.png" group-title="24/7 - CINE PELICULAS ►",24/7: ACCION Movies ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQk1kT1NUNGhNanMxVHcvYlBVYUFSRT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TEEN Channel ⁽ᴴᴰ⁾ ●" tvg-logo="https://immaa.xyz/TEENChannel.png" group-title="24/7 - CINE PELICULAS ►",24/7: TEEN Channel ⁽ᴴᴰ⁾ ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT2VzSG44Y1dycllpMFIwY2pJSlY5VT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Harry Potter" tvg-logo="https://immaa.xyz/HarryPotter.png" group-title="24/7 - CINE PELICULAS ►",24/7: Harry Potter
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTHdaV05OK2RKNzJxb2psZmtTL0VLdz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ROMANCE PLUS ●" tvg-logo="https://immaa.xyz/ROMANCEPLUS.png" group-title="24/7 - CINE PELICULAS ►",24/7: ROMANCE PLUS ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSGxpdnE0dkpMa0luMjVCZWhiQzVDaz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  CINE SANGRIENTO" tvg-logo="https://immaa.xyz/CINESANGRIENTO.png" group-title="24/7 - CINE PELICULAS ►",24/7:  CINE SANGRIENTO
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjBmSDZWemdJbHF3R0g4ancwcDlndz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Thundercats ●" tvg-logo="https://immaa.xyz/247tuuunderccas.png" group-title="24/7 - SERIES Animadas ►",24/7  Thundercats ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVRrUVdnY2dJOENGTHNObm5Mam5aND0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON Ball Zone ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/DRAGONBallZone.png" group-title="24/7 - SERIES Animadas ►",24/7: DRAGON Ball Zone ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUDA0cXFZaUh5V3hEamxTMm16YlBYST0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  LEGO  Zone ●" tvg-logo="https://immaa.xyz/LEGOZone.png" group-title="24/7 - SERIES Animadas ►",24/7:  LEGO  Zone ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUDdKcGsvRTVkd0NPUmlVWVZNMkVCWT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Infantiles Kids Familiar ●" tvg-logo="https://immaa.xyz/CINESAGASINFANTIL.png" group-title="24/7 - SERIES Animadas ►",24/7:  Infantiles Kids Familiar ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFJvbkVUVzBta1NlbDVVWDdqekdTUT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Serie PACMAN" tvg-logo="https://immaa.xyz/247paacmaaan.png" group-title="24/7 - SERIES Animadas ►",24/7:  Serie PACMAN
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiREE3akd4VGJwVC9tc2liTDBJZDdhcz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  SONIC full ●" tvg-logo="https://immaa.xyz/SONICfull.png" group-title="24/7 - SERIES Animadas ►",24/7:  SONIC full ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS0ZQdmJ1RFdTeVl3amFGMEFMQU9xST0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Futurama ●" tvg-logo="https://immaa.xyz/247fuuturrma.png" group-title="24/7 - SERIES Animadas ►",24/7: Futurama ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT2hHS0V5aDI3YTdQQVYydVU1b1hzOD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="http://198.27.70.63:8080/images/dcd67b143d8a3c73bf0c0685122a5548.jpg" group-title="24/7 - SERIES Animadas ►",24/7 | Coraje El Perro Cobarde
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTlVZb0UxRWkrclFsaFlEeUxDUUR2MD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Variedad" tvg-logo="http://198.27.70.63:8080/images/73c4245ba420a054f339c61a1209e0f7.png" group-title="24/7 - SERIES Animadas ►",24/7  Variedad
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ3crRjIyL21YSlo2WGFqY2c5ZUVobz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Lazy Town ●" tvg-logo="https://immaa.xyz/247lazytown.png" group-title="24/7 - SERIES Animadas ►",24/7  Lazy Town ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2s4akhaKzF3N05LOVplaXVlTzROTT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick y Morty ●" tvg-logo="https://immaa.xyz/247ricjymorrrt.png" group-title="24/7 - SERIES Animadas ►",24/7 Rick y Morty ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQXZZeGVyUUZxYTQzNm1wY3VVVEdUUT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Infantiles peques ●" tvg-logo="https://immaa.xyz/247cineeinfaatill.png" group-title="24/7 - SERIES Animadas ►",24/7  Infantiles peques ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTEF2QnR1SnBwcUhqcUYyYVd1OVhpUT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dora la Exploradora ●" tvg-logo="https://immaa.xyz/247DORRAdiora.png" group-title="24/7 - SERIES Animadas ►",24/7 Dora la Exploradora ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRzhRbXlQVnpVa3E5ZU5kZFduMWxObz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MIKE CRACK zone" tvg-logo="https://immaa.xyz/MIKECRACK.png" group-title="24/7 - SERIES Animadas ►",24/7: MIKE CRACK zone
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWRXajRQZTNVRUNpNnZJWCtPZFBGZz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Garfield  serie ●" tvg-logo="https://immaa.xyz/247gaaarfffed.png" group-title="24/7 - SERIES Animadas ►",24/7: Garfield  serie ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ1NzUUxuZ0pxTWVmU3FXYTl6RUtOZz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BLAZE serie ●" tvg-logo="https://immaa.xyz/247bblaaazze.png" group-title="24/7 - SERIES Animadas ►",24/7: BLAZE serie ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHZHSHd0cGsveUo0d2NGeldpaDdTUT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Kids Familiar" tvg-logo="https://immaa.xyz/KidsFamiliar.png" group-title="24/7 - SERIES Animadas ►",24/7:  Kids Familiar
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2RSYW9UdFI0TElvT1oySDdCQkdhdz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  El Chapulin Colorado ●" tvg-logo="https://immaa.xyz/247chaapulliin.png" group-title="24/7 - SERIES Animadas ►",24/7  El Chapulin Colorado ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWt5LzQ1SjdZalBMbzJ1c3ZUOHdFOD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  PAW PATROL serie ●" tvg-logo="https://immaa.xyz/247paaqpatol.png" group-title="24/7 - SERIES Animadas ►",24/7:  PAW PATROL serie ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQzFUbllHR3Y4Nm95dmVubHYwV0Y1QT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El Chavo del 8 Animado" tvg-logo="" group-title="24/7 - SERIES Animadas ►",24/7: El Chavo del 8 Animado
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSXowZUs5SVVMaSs1S0kwS1IzTWhoST0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Infantiles" tvg-logo="http://starplus.club	:8080/images/9583620369e2dccdadce1e44fb0fc0f5.png" group-title="24/7 - SERIES Animadas ►",24/7 | Infantiles
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT28zUTNVY1FtcE42a2dmYklVbi80ND0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MICKEY FULL ●" tvg-logo="https://immaa.xyz/MICKEYFULL.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7: MICKEY FULL ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGVrL3F6TDdQbjgrdDhJdFpLeUlXQT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Bob Esponja" tvg-logo="https://immaa.xyz/BobEsponja.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7  Bob Esponja
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS09GUVhKbEpoL3N4Q0FKSVJjSzdaMD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  PAW PATROL zone" tvg-logo="https://immaa.xyz/PAWPATROL.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7:  PAW PATROL zone
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR0tndW1ydGpYUS8wb2VHVVd4UjE0bz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Los Simpsons ●" tvg-logo="https://immaa.xyz/LosSimpsons.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7: Los Simpsons ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQVB2ZXZKZlRybUtoVFpackNSbTVwYz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Pokemon ●" tvg-logo="https://immaa.xyz/Pokemon.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7: Pokemon ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTzJzVG1oRkRtVHdZbzU5YitGWWJMYz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MIKECRACK ●" tvg-logo="https://immaa.xyz/MIKECRACK.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7: MIKECRACK ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWw0RDhjT2hDNDUyYTJTNU5OSU9Pbz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El chavo del 8 ●" tvg-logo="https://1.bp.blogspot.com/-ulqJGWBJCHg/XcsQ04T68AI/AAAAAAAAA0A/7mljS6zzCgYvwiLzFfIruCq4-scZiuT-QCLcBGAsYHQ/s200/El%2Bchavo%2Bdel%2B8.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7: El chavo del 8 ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2lrUHhobGJLOEFVaFRRMHpVUS9zST0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Historias Religion kids ●" tvg-logo="https://immaa.xyz/HistoriasReligion.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7:  Historias Religion kids ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQys2V2d6VldYQjBBdFpGT0hIRFgraz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Dragon ball Full" tvg-logo="https://1.bp.blogspot.com/-KhJAS_IP8Bg/Xplx7VcrUzI/AAAAAAAABsY/O_hffHoGGWAEmgxHnUZXd0BUGD55CZ9rACLcBGAsYHQ/s200/cell.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7: Dragon ball Full
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTEpYSFFDMUFJWURMU2owMzdOWE1Paz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  LEGO  Zone" tvg-logo="https://immaa.xyz/LEGO.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7:  LEGO  Zone
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS0xXWmFhVE5CSHRGZFFnZy9LU0FyZz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  PACMAN ●" tvg-logo="https://immaa.xyz/247paacmaaan.png" group-title="24/7 - DIBUJOS ANIMADOS ►",24/7:  PACMAN ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUElnK2NZZmZ5YTBWdk1xSDU5Y0NTWT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  TERROR Channel  ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/TERRORChannel.png" group-title="24/7 - VARIADOS ►  ✅",24/7:  TERROR Channel  ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ2FEL01wS0tlYnF5dUFleE1vb0Mvcz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CSI Miami ●" tvg-logo="https://immaa.xyz/247cssiMIAmi2.png" group-title="24/7 - VARIADOS ►  ✅",24/7: CSI Miami ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRG93QUhKYWZDMUFyWkU2WkZabGNyOD0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Two and a Half Men ⁽ᴴᴰ⁾ Dos hombes y medio" tvg-logo="https://immaa.xyz/247dddooshommmedio.png" group-title="24/7 - VARIADOS ►  ✅",24/7:  Two and a Half Men ⁽ᴴᴰ⁾ Dos hombes y medio
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS3k3eHhLQTZVUWg4N3hwTWRrNkgyWT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="https://immaa.xyz/247simmmmpson.png" group-title="24/7 - VARIADOS ►  ✅",24/7 | Los Simpson
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGhUUEN6bEZjTllJTlE4TDBqUC9IOD0
+#EXTINF:-1 tvg-id="" tvg-name="24-7: FRIENDS" tvg-logo="https://immaa.xyz/247fffriennd.png" group-title="24/7 - VARIADOS ►  ✅",24-7: FRIENDS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRUdsa0NDYm42cHZQOWQ2NnRVd1VlRT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: The Big Bang Theory" tvg-logo="https://immaa.xyz/247bigggbandteori.png" group-title="24/7 - VARIADOS ►  ✅",24/7: The Big Bang Theory
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT2pkVXduMnJ1aXdlTktBSmtkSVQ0bz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  SANGRIENTAS ●" tvg-logo="https://immaa.xyz/SANGRIENTAS.png" group-title="24/7 - VARIADOS ►  ✅",24/7:  SANGRIENTAS ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTGhaNHpPNXZYcnpNNDE1SHF3Y1J3RT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FUTURAMA" tvg-logo="https://immaa.xyz/247futturramma.png" group-title="24/7 - VARIADOS ►  ✅",24/7: FUTURAMA
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTk9jMW52RHlWUTBTd0oxRkRYS0dYZz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON Ball Zone ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/DRAGONBall.png" group-title="24/7 - VARIADOS ►  ✅",24/7: DRAGON Ball Zone ⁽ᴴᴰ⁾
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTnBsL0ZCM0hZRXdRcDJLZEl4NHJMdz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El chavo del 8" tvg-logo="https://1.bp.blogspot.com/-ulqJGWBJCHg/XcsQ04T68AI/AAAAAAAAA0A/7mljS6zzCgYvwiLzFfIruCq4-scZiuT-QCLcBGAsYHQ/s200/El%2Bchavo%2Bdel%2B8.png" group-title="24/7 - VARIADOS ►  ✅",24/7: El chavo del 8
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWFWZnBwendTNFUzL2JPaHFLTHpvYz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  PAW PATROL full" tvg-logo="https://immaa.xyz/247paaawpattrroo.png" group-title="24/7 - VARIADOS ►  ✅",24/7:  PAW PATROL full
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHFDVTBkZVRWZ2Y5Z3JFY3hSUXliTT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ROMANCE PLUS" tvg-logo="https://immaa.xyz/ROMANCEPLUS.png" group-title="24/7 - VARIADOS ►  ✅",24/7: ROMANCE PLUS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS011SEJEOUJ3REE4STJ6RHNibFE0ND0
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Kids Movies" tvg-logo="https://immaa.xyz/KidsMovies.png" group-title="24/7 - VARIADOS ►  ✅",24/7: Kids Movies
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHExRDgrbk5hRGFEczFhb1VITWFicz0
+#EXTINF:-1 tvg-id="" tvg-name="24/7  full house" tvg-logo="https://immaa.xyz/247fulllhouuuse.png" group-title="24/7 - VARIADOS ►  ✅",24/7  full house
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQVRJbmNEYWZsSWF0bXpkemJHNzZXRT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville" tvg-logo="https://immaa.xyz/247smaaallvillle.png" group-title="24/7 - VARIADOS ►  ✅",24/7 Smallville
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRUhJU1FWTGk1Vm9MZjBEZXhsTnZSQT0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="https://immaa.xyz/Lacasadepapel.png" group-title="24/7 - VARIADOS ►  ✅",24/7 La casa de papel
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL: CANAL VIP+" tvg-logo="https://i.ibb.co/PZDDypRM/SNEO.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL VIP+
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ3NmYUVKZDBwbXBuMWFhVDJjV3Zrcz0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL: CANAL VIP" tvg-logo="https://i.ibb.co/PZDDypRM/SNEO.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL VIP
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTDFhSFF1NUM3dUZidytqaGlKT0Z5bz0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL: CANAL FOX +" tvg-logo="https://i.ibb.co/PZDDypRM/SNEO.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",MUNDIAL: CANAL FOX +
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiREZyS0loZU9yQ2ZKK3B0eTJtb1FKbz0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 1" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 1
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR0dzV1ZUTkpSdkpEMHJaYzMyQlhlYz0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 2" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 2
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHFCRVdHZjBwaVg3TWVhaWtRS0owMD0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 3" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 3
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTlNbTJGdDBHL21RYzJ4VkFCdFRYcz0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 4" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 4
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVU3eFFCV2FheVBZSnRNMllWeEJTZz0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 5" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 5
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRnNQQnJVMUJvWk1RWmxMTWhzTnVlQT0
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL⚽| CANAL 6" tvg-logo="https://i.ibb.co/pBGTSdmC/SNEO-1.png" group-title="⚽MUNDIAL 2026⚽",MUNDIAL⚽| CANAL 6
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjQwVzhDc012enBTQVBjd1hIOStQYz0
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT Disney+ Informativo" tvg-logo="https://immaa.xyz/disn3INFO.png" group-title="⭐EVENTOS DISNEY+⭐",PPV EVENT Disney+ Informativo
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSURYSmI3MmlndkE0L3J0QzFEdU1vWT0
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT Disney+ 1  [Replays]" tvg-logo="https://immaa.xyz/disn3replay.png" group-title="⭐EVENTOS DISNEY+⭐",PPV EVENT Disney+ 1  [Replays]
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTWNIS05JSzErYjZKb25rSVNBek8yST0
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT Disney+" tvg-logo="https://immaa.xyz/disn310.png" group-title="⭐EVENTOS DISNEY+⭐",PPV EVENT Disney+
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTnZEVnNNckxDUlhRRlBqdjRDMTZsWT0
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX PPV : 01 (Funciona en evento)" tvg-logo="https://immaa.xyz/n3fllxevent.png" group-title="⭐EVENTOS NETFLIX⭐",NETFLIX PPV : 01 (Funciona en evento)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFFSUGVNMUh0NVcza3dxZmphZjNjVT0
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX PPV : 02 (Funciona en evento)" tvg-logo="https://immaa.xyz/n3fllxevent.png" group-title="⭐EVENTOS NETFLIX⭐",NETFLIX PPV : 02 (Funciona en evento)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFZsMzJONUtOVXdyVmZZelZjZllKMD0
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX PPV :  (Replays)" tvg-logo="https://immaa.xyz/n3fllxevent.png" group-title="⭐EVENTOS NETFLIX⭐",NETFLIX PPV :  (Replays)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSERZMHBmZC9VT21SNjlHbmFRQlJyaz0
+#EXTINF:-1 tvg-id="" tvg-name="⚽ Directv Sports ⚽" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ Directv Sports ⚽
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSmJPQ3VLZzlybGNzTFdXcXA5a1RpZz0
+#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN LATINO ⚽" tvg-logo="https://static.epg.best/mx/ESPNLatin.mx.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ ESPN LATINO ⚽
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSm5wRy9GdjM4WEdMU1hCREw5dFpPaz0
+#EXTINF:-1 tvg-id="" tvg-name="⚽ UEFA / M+ LALIGA ⚽" tvg-logo="https://immaa.xyz/CHAANNNpiiileeag.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ UEFA / M+ LALIGA ⚽
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHBLeUQ1VDV0QW5iUlFEd282NWpNaz0
+#EXTINF:-1 tvg-id="" tvg-name="⚽ REPLAY Champions Liga de Campeones ● ⚽" tvg-logo="https://immaa.xyz/CHAANNNpiiileeag.png" group-title="⚽ CHAMPIONS LEAGUE *UEFA ⚽",⚽ REPLAY Champions Liga de Campeones ● ⚽
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQzhJNElabU42NXVRVUs0clpRRndwMD0
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING EVENTS 001 (Funciona en evento)" tvg-logo="https://i.ibb.co/YBpn2C5f/sneo-sp.png" group-title="⭐UFC - BOXEO - WWE",PPV BOXING EVENTS 001 (Funciona en evento)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSlpSeFpGRi9CSTh4WUtFMmNESVJlST0
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING EVENTS 002 (Funciona en evento)" tvg-logo="https://i.ibb.co/YBpn2C5f/sneo-sp.png" group-title="⭐UFC - BOXEO - WWE",PPV BOXING EVENTS 002 (Funciona en evento)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQmRLdU53akhhQytpVGNYL2ZOWDZ1RT0
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS EVENTS 001 (Funciona en evento)" tvg-logo="https://immaa.xyz/uuffccpassseven.png" group-title="⭐UFC - BOXEO - WWE",UFC PASS EVENTS 001 (Funciona en evento)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUE9yMFhlMkRrRXZEN0k2LzhYUVpMbz0
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS EVENTS 002 (Funciona en evento)" tvg-logo="https://immaa.xyz/uuffccpassseven1.png" group-title="⭐UFC - BOXEO - WWE",UFC PASS EVENTS 002 (Funciona en evento)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRm9nTUE5ekhaUXQ1NVhJYjRvSWU1VT0
+#EXTINF:-1 tvg-id="" tvg-name="UFC | WWE Network ..." tvg-logo="https://immaa.xyz/WWENetwork.png" group-title="⭐UFC - BOXEO - WWE",UFC | WWE Network ...
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRmFHOGFQQkFMMjdELytGNEJpWHd4OD0
+#EXTINF:-1 tvg-id="" tvg-name="UFC REPLAYS  ●" tvg-logo="https://immaa.xyz/UFCREPLAYS.png" group-title="⭐UFC - BOXEO - WWE",UFC REPLAYS  ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSE5ZZWpPK1gvUFIzTFVHMHB0blBmST0
+#EXTINF:-1 tvg-id="" tvg-name="UFC - Fight Channel  - BOX - PASS" tvg-logo="https://immaa.xyz/FightChannel.png" group-title="⭐UFC - BOXEO - WWE",UFC - Fight Channel  - BOX - PASS
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUDZtL0NUQnYxcXBGaGp4ZGs2ZUIrZz0
+#EXTINF:-1 tvg-id="" tvg-name="UFC: THE FIGHT NETWORK / Box" tvg-logo="https://immaa.xyz/THEFIGHTNETWORK.png" group-title="⭐UFC - BOXEO - WWE",UFC: THE FIGHT NETWORK / Box
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRzRncE0vY2Z2YkhBUUxTWmEwb2p1QT0
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING EVENTS Fite AEW BBKF" tvg-logo="" group-title="⭐UFC - BOXEO - WWE",PPV BOXING EVENTS Fite AEW BBKF
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUtZZzlXa1hFWXZQSy8xWUIzZFcxcz0
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING LUCHA LIBRE CMLL AAA MX" tvg-logo="https://immaa.xyz/ARGttyccc.png" group-title="⭐UFC - BOXEO - WWE",PPV BOXING LUCHA LIBRE CMLL AAA MX
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRlVYRnNUYjM3V1hjSVFYaTRpSFZWRT0
+#EXTINF:-1 tvg-id="" tvg-name="DAZN COMBATE @" tvg-logo="https://immaa.xyz/DAZNCOMBATE.png" group-title="⭐UFC - BOXEO - WWE",DAZN COMBATE @
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVgzTjlYZlRxQk1qM1paVUpQS2s2ND0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 Latino" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="⭐UFC - BOXEO - WWE",ESPN 4 Latino
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR005ZkpmRTUxWDhJT1NHUDNkcHJLUT0
+#EXTINF:-1 tvg-id="" tvg-name="USA :  TITAN TV MMATV ●" tvg-logo="https://immaa.xyz/EUROPLAYER01MMATV.png" group-title="⭐UFC - BOXEO - WWE",USA :  TITAN TV MMATV ●
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR2U4NzZHVlRNZUZuemZOQmpMdkJ0cz0
+#EXTINF:-1 tvg-id="" tvg-name="USA :  EUROPLAYER 01 MMATV 002 ● @ (Solo eventos)" tvg-logo="https://immaa.xyz/EUROPLAYER01MMATV002.png" group-title="⭐UFC - BOXEO - WWE",USA :  EUROPLAYER 01 MMATV 002 ● @ (Solo eventos)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQUNPL25KV29GUUt6cVJQaTRpV3Y3TT0
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (UFC- BOX ) Ingles" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="⭐UFC - BOXEO - WWE",FOX SPORTS PREMIUM (UFC- BOX ) Ingles
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGRTVXpKZXkxdzl0NkxsTVBhbTRRbz0
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (UFC-BOX)  Latino" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="⭐UFC - BOXEO - WWE",FOX SPORTS PREMIUM (UFC-BOX)  Latino
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSEN2OGU2SHBqSGRVSFoyMnV3TUl4WT0
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://immaa.xyz/dieeeccFIGG.png" group-title="⭐UFC - BOXEO - WWE",DIRECTV Sports Fight
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQW5odXljSEk1NkRrbk1IMzB3R1hSUT0
+#EXTINF:-1 tvg-id="" tvg-name="BR_ COMBATE" tvg-logo="" group-title="⭐UFC - BOXEO - WWE",BR_ COMBATE
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjlGenpQSGJuVG1ERmZ2YnJLTXdORT0
+#EXTINF:-1 tvg-id="" tvg-name="USA: UFC Fight Pass ." tvg-logo="https://immaa.xyz/UFFFcfipaas001.png" group-title="⭐UFC - BOXEO - WWE",USA: UFC Fight Pass .
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSW9nYW5icjM0cHR2QmVZL1dBbzkvMD0
+#EXTINF:-1 tvg-id="" tvg-name="USA - UFC FITE   // ● BOX" tvg-logo="https://immaa.xyz/UFCFITE.png" group-title="⭐UFC - BOXEO - WWE",USA - UFC FITE   // ● BOX
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQzNuMzk1L0MvT2d5aG0wZEdsNWlwND0
+#EXTINF:-1 tvg-id="" tvg-name="08:00 Primeira Divisão - Macau Benfica de Macau vs. Shao Jiang" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",08:00 Primeira Divisão - Macau Benfica de Macau vs. Shao Jiang
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQVE4M1dVeHVBemR1VExiNDltcjMrRT0
+#EXTINF:-1 tvg-id="" tvg-name="08:00 WorldSBK Libres 2 & Superpole (WWCR & WSSP) Prosecco DOC UK Round" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",08:00 WorldSBK Libres 2 & Superpole (WWCR & WSSP) Prosecco DOC UK Round
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUENYcDlJOS9HMkVDVHl2NGp1NnpjRT0
+#EXTINF:-1 tvg-id="" tvg-name="09:00 Copa Mundial de la FIFA™ Programa 31 Trending Mundial" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",09:00 Copa Mundial de la FIFA™ Programa 31 Trending Mundial
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRW5ZclNScTJMTkJhdVp2ZVJKN2Q3MD0
+#EXTINF:-1 tvg-id="" tvg-name="09:00 Premier League - Lebanon Racing Beirut vs. Tadamon Sour" tvg-logo="https://immaa.xyz/EVENT_premieeerlegague.png" group-title=" ⭐EVENTOS TV⭐",09:00 Premier League - Lebanon Racing Beirut vs. Tadamon Sour
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTUoxQ05ZcjVjQ20xYUpSM1RrQ29IQT0
+#EXTINF:-1 tvg-id="" tvg-name="09:00 Apex Legends Global Series Playoffs Split 1 Apex Legends - Día 4" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",09:00 Apex Legends Global Series Playoffs Split 1 Apex Legends - Día 4
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR28rMVZOVXRWc0NxemVRblhDeGJpND0
+#EXTINF:-1 tvg-id="" tvg-name="09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)" tvg-logo="https://immaa.xyz/EVENT_ES_tourfrancia.png" group-title=" ⭐EVENTOS TV⭐",09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSGNqV1ZjWk9FVnpuS1k2amZaU3Noaz0
+#EXTINF:-1 tvg-id="" tvg-name="09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)" tvg-logo="https://immaa.xyz/EVENT_ES_tourfrancia.png" group-title=" ⭐EVENTOS TV⭐",09:00 TOUR FRANCIA ᴾᵖᵛ Etapa 7Hagetmau › Bordeaux (175 km)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjBheXVvckc3WEJPMmw5TVV6QWsrcz0
+#EXTINF:-1 tvg-id="" tvg-name="09:30 TENIS Wimbledon ᴾᵖᵛ J. Sinner vs N. Djokovic" tvg-logo="https://immaa.xyz/EVENT_teennis.png" group-title=" ⭐EVENTOS TV⭐",09:30 TENIS Wimbledon ᴾᵖᵛ J. Sinner vs N. Djokovic
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVZXOWQ4bEJKM0ZPVmxDV0Uzajljbz0
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Copa Mundial de Fútbol - 2026 España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 Copa Mundial de Fútbol - 2026 España vs Bélgica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUFptUUw0YUVKU25uSzgwUHEwdFRqTT0
+#EXTINF:-1 tvg-id="" tvg-name="11:00 EUROPEO SUB-19 FEMENINO Alemania - España" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",11:00 EUROPEO SUB-19 FEMENINO Alemania - España
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTNicnI0WG9nWGF4SWlySHFNUXJkRT0
+#EXTINF:-1 tvg-id="" tvg-name="13:00 Atletismo DIAMOND LEAGUE Mónaco" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",13:00 Atletismo DIAMOND LEAGUE Mónaco
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHdoUE9yT3BUYlJwOUZPUFpkaHhYND0
+#EXTINF:-1 tvg-id="" tvg-name="14:00 MUNDIAL España - Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 MUNDIAL España - Bélgica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSzlIcTJxQ0cxandiZHdBcHAwaFhiST0
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Mundial España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 Mundial España vs Bélgica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRkZRZmZKT0F1aUoyOFpRV2ZJWHMybz0
+#EXTINF:-1 tvg-id="" tvg-name="14:00 MUNDIAL España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 MUNDIAL España vs Bélgica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiS2FPUlZDSWNDVGxnVXZvZGFHUVgzdz0
+#EXTINF:-1 tvg-id="" tvg-name="14:00 WORLD CUP ᴾᵖᵛ España vs Bélgica" tvg-logo="https://immaa.xyz/EVENT_essppaana.png" group-title=" ⭐EVENTOS TV⭐",14:00 WORLD CUP ᴾᵖᵛ España vs Bélgica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRjVKNEtUTDVJcUlhVUVvZEp2TGpFdz0
+#EXTINF:-1 tvg-id="" tvg-name="17:00 LigaPro EC ᴾᵖᵛ Leones del Norte vs U. Católica" tvg-logo="https://immaa.xyz/EVENT_liggaprooec.png" group-title=" ⭐EVENTOS TV⭐",17:00 LigaPro EC ᴾᵖᵛ Leones del Norte vs U. Católica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTG1UUFZXcWVOZ3F2SHd3WnlnUDFrdz0
+#EXTINF:-1 tvg-id="" tvg-name="17:30 BEISBOL MLB Washington Nationals vs New York Yankees" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",17:30 BEISBOL MLB Washington Nationals vs New York Yankees
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQTlPSmhabG9YRmQ1ZWVwdlRWR1oyST0
+#EXTINF:-1 tvg-id="" tvg-name="18:00 Brasileirao B Sport Recife vs Botafogo SP" tvg-logo="https://immaa.xyz/evenONON.png" group-title=" ⭐EVENTOS TV⭐",18:00 Brasileirao B Sport Recife vs Botafogo SP
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR05PQ21EcUtwbC9zMG9veFhEVFE3bz0
+#EXTINF:-1 tvg-id="" tvg-name="18:00 BEISBOL ᴾᵖᵛ Tampa Bay Rays vs Seattle Mariners" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",18:00 BEISBOL ᴾᵖᵛ Tampa Bay Rays vs Seattle Mariners
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT0hucTF2YzI1ZHpHcEg0VWxwaFdjRT0
+#EXTINF:-1 tvg-id="" tvg-name="18:00 BEISBOL MLB Cincinnati Reds vs Chicago Cubs" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",18:00 BEISBOL MLB Cincinnati Reds vs Chicago Cubs
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTW1uUmk4YTZjOXRBa2g5ZVFYYWNVWT0
+#EXTINF:-1 tvg-id="" tvg-name="18:30 BEISBOL MLB Chicago White Sox vs Athletics" tvg-logo="https://immaa.xyz/EVENT_mmlbbs.png" group-title=" ⭐EVENTOS TV⭐",18:30 BEISBOL MLB Chicago White Sox vs Athletics
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQWdPSmd6aURWSE9SVWp2V0d0SzF3TT0
+#EXTINF:-1 tvg-id="" tvg-name="19:00 LigaPro EC ᴾᵖᵛ Técnico Universitario vs Macará" tvg-logo="https://immaa.xyz/EVENT_liggaprooec.png" group-title=" ⭐EVENTOS TV⭐",19:00 LigaPro EC ᴾᵖᵛ Técnico Universitario vs Macará
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTmdLYzlrSTMwTGlTbDlZem9lRmZSaz0
+#EXTINF:-1 tvg-id="" tvg-name="WWE Friday Night SmackDown" tvg-logo="https://immaa.xyz/EVENT_wwweeee.png" group-title=" ⭐EVENTOS TV⭐",WWE Friday Night SmackDown
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRGhJVFdaNlZaMm5iRzJCN0hYb3BYYz0
+#EXTINF:-1 tvg-id="" tvg-name="PPV UFC Preliminar y main" tvg-logo="https://immaa.xyz/uuffccpassseven.png" group-title=" ⭐EVENTOS TV⭐",PPV UFC Preliminar y main
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUHVZVllPMFdhVDNEWVY3V2Y1VGsyQT0
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX Preliminar y main" tvg-logo="https://immaa.xyz/EVENT_bboox.png" group-title=" ⭐EVENTOS TV⭐",PPV BOX Preliminar y main
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRWJDRVk1aTlZN1h1V1cxSUZ2SlI2dz0
+#EXTINF:-1 tvg-id="" tvg-name="13:00 MUNDlAL: España vs Bélgica" tvg-logo="https://immaa.xyz/muundll02.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",13:00 MUNDlAL: España vs Bélgica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRFZoUjhBRmorYUwwUHRTL01XNWl0bz0
+#EXTINF:-1 tvg-id="" tvg-name="14:00 MUNDlAL: España vs Bélgica" tvg-logo="https://immaa.xyz/muundll02.png" group-title="⚽⚽COPA DEL MUNDO⚽⚽",14:00 MUNDlAL: España vs Bélgica
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR2RkaVE4cDFXYkxua1RSSUpUODdwRT0
+#EXTINF:-1 tvg-id="" tvg-name="Usa: NBA TV" tvg-logo="https://immaa.xyz/tnetNNNBBAAA.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",Usa: NBA TV
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUJmTk0wZldvcmtFYXQ0RXpSenU5ND0
+#EXTINF:-1 tvg-id="" tvg-name="14:00 NBA event: - 01 - Bucks vs Heat" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",14:00 NBA event: - 01 - Bucks vs Heat
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUdMQmpxRjVMaHVEUUhtcGhERUIzWT0
+#EXTINF:-1 tvg-id="" tvg-name="14:30 NBA event: - 02 - Cavaliers vs. Pacers" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",14:30 NBA event: - 02 - Cavaliers vs. Pacers
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiT005RnM0T2xpK25QVzU2OGczRXNXbz0
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NBA event: Bucks vs Heat (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:00 NBA event: Bucks vs Heat (07.10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSUVYa05PemxxZzQ2VmpNRzd5a2hGYz0
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NBA event: - 03 - Nets vs. Knicks" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:00 NBA event: - 03 - Nets vs. Knicks
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTVM2bjFKUnA2aFgzVzZUKzlWUkFaaz0
+#EXTINF:-1 tvg-id="" tvg-name="16:30 NBA event: Cavaliers vs Pacers (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:30 NBA event: Cavaliers vs Pacers (07.10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRUY5cTBFUUw5U3grdWVlS2dUVUFIMD0
+#EXTINF:-1 tvg-id="" tvg-name="16:30 NBA event: - 04 - Rockets vs. Nuggets" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:30 NBA event: - 04 - Rockets vs. Nuggets
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ0ZQa0pUbmFzTkdjMDlUcnhEbE5FWT0
+#EXTINF:-1 tvg-id="" tvg-name="16:30 NBA event: - 05 - Rockets vs. Nuggets Español" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",16:30 NBA event: - 05 - Rockets vs. Nuggets Español
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTE84TXJlL2tsMC8vOExpSFJyNjhGdz0
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NBA event: Nets vs Knicks (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",18:00 NBA event: Nets vs Knicks (07.10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ3pjM0lIeFFIVzBoUXNrNzRCbVh3ST0
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NBA event: Rockets vs Nuggets (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",18:30 NBA event: Rockets vs Nuggets (07.10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRWVHcCswazExMEltOWl1VFNEL2xPWT0
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NBA event: - 06 - Celtics vs. Raptors" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:00 NBA event: - 06 - Celtics vs. Raptors
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiR3d2RCs5THVoN0JwYTJBRmdDWk12dz0
+#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 01 GOLDEN STATE VALKYRIES vs CONNECTICUT SUN /10- ION" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 01 GOLDEN STATE VALKYRIES vs CONNECTICUT SUN /10- ION
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRXpOOTU5aWhBOTlWZ2ptWFg3K09zZz0
+#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 02 DALLAS WINGS vs TORONTO TEMPO /10- ION" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 02 DALLAS WINGS vs TORONTO TEMPO /10- ION
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQjRXTzhZMS8rSlhjL0lKc05sUVZRST0
+#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 01: Golden State Valkyries vs. Connecticut Sun (Jul 10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 01: Golden State Valkyries vs. Connecticut Sun (Jul 10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSzRxSmF4OXVtdTE0RmxBQVZXZ0U4ND0
+#EXTINF:-1 tvg-id="" tvg-name="19:30 WNBA 02: Dallas Wings vs. Toronto Tempo (Jul 10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",19:30 WNBA 02: Dallas Wings vs. Toronto Tempo (Jul 10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiTzU2aFVwVitxVDZQUm5wSDU4V1RXST0
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NBA event: Bulls vs Grizzlies (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",20:00 NBA event: Bulls vs Grizzlies (07.10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiQ2JYaWdZVytEV1J0U25yTUhVcWJ5ND0
+#EXTINF:-1 tvg-id="" tvg-name="21:00 NBA event: Celtics vs Raptors (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",21:00 NBA event: Celtics vs Raptors (07.10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSE9sRkxWTnRjc2J2aWl3RnhINU9EZz0
+#EXTINF:-1 tvg-id="" tvg-name="21:00 NBA event: - 07 - Trail Blazers vs. Suns" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",21:00 NBA event: - 07 - Trail Blazers vs. Suns
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSEJhZmdjcUVnMFpML2ovWm5GZDNCaz0
+#EXTINF:-1 tvg-id="" tvg-name="21:00 NBA event: SP+ 16: : Cavaliers vs Pacers (07-10 UTC)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",21:00 NBA event: SP+ 16: : Cavaliers vs Pacers (07-10 UTC)
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiSVlKeGxwbzliQ1BadTVjb1JvcUlLST0
+#EXTINF:-1 tvg-id="" tvg-name="22:00 WNBA 03 CHICAGO SKY vs LOS ANGELES SPARKS /10- ION" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",22:00 WNBA 03 CHICAGO SKY vs LOS ANGELES SPARKS /10- ION
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiUG1nbCtxczBJb1F2NzU5R2JYRmJ2VT0
+#EXTINF:-1 tvg-id="" tvg-name="22:00 WNBA 03: Chicago Sky vs. Los Angeles Sparks (Jul 10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",22:00 WNBA 03: Chicago Sky vs. Los Angeles Sparks (Jul 10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRHZMNExFVFNHNkxOWUpUblhKNlJPWT0
+#EXTINF:-1 tvg-id="" tvg-name="22:00 NBA event: Thunder vs Lakers (07.10 )" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="⭐ NBA - NFL - NHL - MLB - LMP (EVENTOS)",22:00 NBA event: Thunder vs Lakers (07.10 )
+http://sneoplus.es:80/SHRESmhLQU13UHBaMVlqQWd1QmFiRVdCRnp5eVBvdy9kNVFScktNVVRJYz0
