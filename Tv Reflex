@@ -13,10 +13,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIERRA MIA TV:SALTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhhri46IT91jDSkvFkPE8-aOThKYZjOOD1IfFXu27rnV2A-mhO7PfAMg&s=10" group-title="▶️ TV ARGENTINA",SALTA
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MILENIUM TV:SALTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qN-nokWm5anOGG7NF4H3zMdsk2byebWB4UYm5WkbYNPaCw4349sfGBo&s=10" group-title="▶️ TV ARGENTINA",SALTA
-https://milenium.alfasocialmedia.com.ar/live/milenium/main_stream.m3u8
+https://milenium.alfasocialmedia.com.ar/live/milenium/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EL ONCE TV:SALTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Elonce_TV_Salta.png" group-title="▶️ TV ARGENTINA",SALTA
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.EOSkuiU4HI2g.m3u8?browser_family=chrome&browser_version=150.0&cdm=wv&os_name=Windows&os_version=NT%2010.0&platform=web&player_backend=mediaplayer&player_version=1.53.0&supported_codecs=av1,h264&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvRU9Ta3VpVTRISTJnIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODQyOTU3Njl9._GYzcuxjmeuKWXuWZkU0ow56VcdMbCcufBQXjCQGojEqGeNWrBrwNNXoUhRLGm4h59L6UyJHDWbJkfhtcv1zh0tnx9Hniw-i8mGjV6c9cgPycU_rpAwLc_zvoe3aRFeG
-
+https://player.kick.com/eloncetv
+#EXTINF:-1 tvg-id="" tvg-name="CANAL:2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Elonce_TV_Salta.png" group-title="▶️ TV ARGENTINA",SALTA
+https://youtu.be/1r0ab1rzpxc
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISMA:TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Elonce_TV_Salta.png" group-title="▶️ TV ARGENTINA",ARGENTINA
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
